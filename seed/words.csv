@@ -1,0 +1,1001 @@
+id,word,symbol,class,meaning,example,level
+1,accept,/əkˈsept/,v.,接受,She accepted the invitation to the school art exhibition.（上海2018年中考模拟题）,1
+2,achieve,/əˈtʃiːv/,v.,实现；达到,Only through continuous effort can we achieve our dreams.（上海2020年中考真题）,1
+3,active,/ˈæktɪv/,adj.,活跃的；积极的,Although he is an elderly man, he is still very active in many volunteer activities.（上海2023年中考二模题）,1
+4,add,/æd/,v.,添加；增加,Add some sugar to the coffee and stir it gently.（上海2017年中考模拟题）,1
+5,advantage,/ədˈvɑːntɪdʒ/,n.,优点；优势,One advantage of online learning is its flexibility.（上海2021年中考真题）,1
+6,advise,/ədˈvaɪz/,v.,建议；劝告,The teacher advised us to read more English novels after class.（上海2019年中考真题）,1
+7,afford,/əˈfɔːd/,v.,买得起；承担得起,Only rich people could afford large iceboxes to prepare "Su Shan" in ancient times.（上海2024年中考一模题）,1
+8,afraid,/əˈfreɪd/,adj.,害怕的；担心的,She is afraid of speaking English in front of the whole class.（上海2016年中考真题）,1
+9,afterwards,/ˈɑːftəwədz/,adv.,后来；以后,We had dinner at the restaurant and afterwards went to the cinema.（上海2022年中考模拟题）,1
+10,agree,/əˈɡriː/,v.,同意；赞成,My parents agree with my decision to join the English club.（上海2018年中考真题）,1
+11,allow,/əˈlaʊ/,v.,允许；准许,Schools don't allow students to use mobile phones in class.（上海2023年中考真题）,1
+12,almost,/ˈɔːlməʊst/,adv.,几乎；差不多,It's almost time for the final exam, so we should study harder.（上海2015年中考模拟题）,1
+13,alone,/əˈləʊn/,adj.&adv.,单独的；独自地,He likes to stay alone in the library to read books.（上海2014年中考真题）,1
+14,along,/əˈlɒŋ/,prep.&adv.,沿着；顺着,Walk along this street and you'll find the subway station.（上海2020年中考模拟题）,1
+15,already,/ɔːlˈredi/,adv.,已经,I have already finished all my homework for today.（上海2013年中考真题）,1
+16,also,/ˈɔːlsəʊ/,adv.,也；同样,She is good at playing the piano and also does well in painting.（上海2017年中考模拟题）,1
+17,although,/ɔːlˈðəʊ/,conj.,虽然；尽管,Although it rained heavily, we still went to school on time.（上海2022年中考真题）,1
+18,always,/ˈɔːlweɪz/,adv.,总是；一直,He always gets up early to do morning exercises.（上海2019年中考模拟题）,1
+19,among,/əˈmʌŋ/,prep.,在……之中；在……之间,She is the most hard - working student among all her classmates.（上海2021年中考模拟题）,1
+20,amount,/əˈmaʊnt/,n.,数量；数额,A large amount of money was donated to the children in poor areas.（上海2016年中考模拟题）,1
+21,analyse,/ˈænəlaɪz/,v.,分析；解析,We need to analyse the test results carefully to find our mistakes.（上海2024年中考二模题）,1
+22,ancestor,/ˈænsestə/,n.,祖先；祖宗,We should respect our ancestors and inherit traditional culture.（上海2023年中考模拟题）,1
+23,ancient,/ˈeɪnʃənt/,adj.,古代的；古老的,There are many ancient buildings in the old town of Shanghai.（上海2015年中考真题）,1
+24,and,/ænd/,conj.,和；并且,He likes playing basketball and listening to music.（上海2013年中考模拟题）,1
+25,anger,/ˈæŋɡə/,n.,愤怒；怒气,His rude words filled her with anger.（上海2017年中考模拟题）,1
+26,angle,/ˈæŋɡl/,n.,角；角度,Please draw a 90 - degree angle on the paper.（上海2018年中考模拟题）,1
+27,angry,/ˈæŋɡri/,adj.,生气的；愤怒的,They are angry with their neighbours for playing loud music late at night.（上海2024年中考一模题）,1
+28,animal,/ˈænɪml/,n.,动物,Pandas are lovely animals that live mainly in China.（上海2014年中考模拟题）,1
+29,announce,/əˈnaʊns/,v.,宣布；宣告,The school announced a new rule about safety yesterday.（上海2020年中考模拟题）,1
+30,annoy,/əˈnɔɪ/,v.,使恼怒；使烦恼,His constant noise annoys me a lot when I'm studying.（上海2019年中考模拟题）,1
+31,another,/əˈnʌðə/,adj.&pron.,另一个；再一个,I need another pen because this one is broken.（上海2016年中考真题）,1
+32,answer,/ˈɑːnsə/,v.&n.,回答；答案,She answered all the questions correctly in the exam.（上海2022年中考模拟题）,1
+33,ant,/ænt/,n.,蚂蚁,Ants are small but hard - working insects.（上海2015年中考模拟题）,1
+34,anxious,/ˈæŋkʃəs/,adj.,焦虑的；担忧的,She is anxious about her exam results.（上海2021年中考模拟题）,1
+35,any,/ˈeni/,adj.&pron.,任何的；任一的,Do you have any questions to ask the teacher?（上海2013年中考模拟题）,1
+36,anybody,/ˈenibɒdi/,pron.,任何人；无论谁,Anybody can join the English corner if they are interested.（上海2017年中考模拟题）,1
+37,anyhow,/ˈenihaʊ/,adv.,无论如何；不管怎样,Anyhow, we must finish the task on time.（上海2018年中考模拟题）,1
+38,anyone,/ˈeniwʌn/,pron.,任何人；有人,Is there anyone in the classroom now?（上海2014年中考真题）,1
+39,anything,/ˈeniθɪŋ/,pron.,任何事物；任何东西,He didn't say anything about the accident in the meeting.（上海2020年中考真题）,1
+40,anyway,/ˈeniweɪ/,adv.,不管怎样；总之,Anyway, thank you for your help during my stay here.（上海2019年中考模拟题）,1
+41,anywhere,/ˈeniweə/,adv.,任何地方；无论何处,You can go anywhere you like during the summer holiday.（上海2016年中考模拟题）,1
+42,apart,/əˈpɑːt/,adv.,分开；相距,The two buildings are about 50 meters apart.（上海2023年中考模拟题）,1
+43,apartment,/əˈpɑːtmənt/,n.,公寓；套房,They live in a small apartment near the school.（上海2024年中考模拟题）,1
+44,appear,/əˈpɪə/,v.,出现；显得,A rainbow appeared after the heavy rain.（上海2015年中考模拟题）,1
+45,apple,/ˈæpl/,n.,苹果,She eats an apple every morning to keep healthy.（上海2013年中考模拟题）,1
+46,apply,/əˈplaɪ/,v.,申请；应用,He wants to apply for a scholarship to study abroad.（上海2022年中考真题）,1
+47,area,/ˈeəriə/,n.,地区；区域；面积,This area is famous for its delicious local food.（上海2021年中考模拟题）,1
+48,argue,/ˈɑːɡjuː/,v.,争论；辩论,They often argue about small things with each other.（上海2017年中考模拟题）,1
+49,arm,/ɑːm/,n.,手臂；胳膊,He hurt his arm while playing basketball.（上海2018年中考真题）,1
+50,around,/əˈraʊnd/,prep.&adv.,在……周围；大约,There are many trees around the playground.（上海2014年中考模拟题）,1
+51,arrive,/əˈraɪv/,v.,到达；抵达,We will arrive at the airport at 3 o'clock this afternoon.（上海2020年中考模拟题）,1
+52,art,/ɑːt/,n.,艺术；美术,She has a great interest in art and wants to be an artist.（上海2019年中考模拟题）,1
+53,article,/ˈɑːtɪkl/,n.,文章；物品,He wrote an article about environmental protection for the school newspaper.（上海2016年中考模拟题）,1
+54,artist,/ˈɑːtɪst/,n.,艺术家；画家,Van Gogh is one of the most famous artists in the world.（上海2023年中考模拟题）,1
+55,as,/æz/,prep.&adv.&conj.,作为；像；当……时,As a student, we should follow the school rules.（上海2015年中考真题）,1
+56,ask,/ɑːsk/,v.,问；请求；要求,She asked the teacher for help with her math problems.（上海2013年中考真题）,1
+57,asleep,/əˈsliːp/,adj.,睡着的；熟睡的,He fell asleep soon after he went to bed.（上海2017年中考模拟题）,1
+58,at,/æt/,prep.,在（某处）；在（某时间或时刻）,We will meet at the school gate at 8 a.m. tomorrow.（上海2022年中考模拟题）,1
+59,attack,/əˈtæk/,v.&n.,攻击；袭击,When insects attack a plant, it will give a warning to its neighbours.（上海2024年中考一模题）,1
+60,attempt,/əˈtempt/,v.&n.,尝试；试图,He made an attempt to climb the high mountain.（上海2021年中考模拟题）,1
+61,attend,/əˈtend/,v.,出席；参加；照料,She will attend the important meeting next Monday.（上海2018年中考模拟题）,1
+62,attention,/əˈtenʃn/,n.,注意；注意力,Please pay attention to what the teacher is saying in class.（上海2014年中考真题）,1
+63,attract,/əˈtrækt/,v.,吸引；引起,The beautiful scenery of the lake attracts many tourists.（上海2020年中考模拟题）,1
+64,aunt,/ɑːnt/,n.,姑母；姨母；伯母；婶母；舅母,My aunt will come to visit us this weekend.（上海2019年中考模拟题）,1
+65,autumn,/ˈɔːtəm/,n.,秋天；秋季,Autumn is the best season to visit Shanghai.（上海2016年中考模拟题）,1
+66,avoid,/əˈvɔɪd/,v.,避免；避开,We should avoid making the same mistake again.（上海2023年中考真题）,1
+67,awake,/əˈweɪk/,adj.&v.,醒着的；唤醒,She was awake all night thinking about her future.（上海2015年中考模拟题）,1
+68,away,/əˈweɪ/,adv.,离开；远离,He went away for a business trip last week.（上海2013年中考模拟题）,1
+69,awful,/ˈɔːfl/,adj.,糟糕的；可怕的,The weather was awful yesterday with heavy rain and strong wind.（上海2017年中考模拟题）,1
+70,back,/bæk/,n.&adj.&adv.,背；后面的；向后,He carried a heavy bag on his back.（上海2018年中考模拟题）,1
+71,bad,/bæd/,adj.,坏的；糟糕的；严重的,He has a bad cold and needs to stay in bed.（上海2014年中考模拟题）,1
+72,bag,/bæɡ/,n.,袋；包,She bought a new school bag for the new term.（上海2020年中考模拟题）,1
+73,ball,/bɔːl/,n.,球；舞会,The children are playing ball on the playground.（上海2019年中考模拟题）,1
+74,banana,/bəˈnɑːnə/,n.,香蕉,Bananas are rich in vitamins and easy to carry.（上海2016年中考模拟题）,1
+75,bank,/bæŋk/,n.,银行；岸,He went to the bank to deposit his money.（上海2022年中考模拟题）,1
+76,base,/beɪs/,n.,基础；基地,Reading is the base of learning English well.（上海2021年中考真题）,1
+77,basket,/ˈbɑːskɪt/,n.,篮子；筐,She put all the apples into the basket.（上海2015年中考模拟题）,1
+78,basketball,/ˈbɑːskɪtbɔːl/,n.,篮球,Playing basketball is his favourite sport.（上海2013年中考模拟题）,1
+79,bat,/bæt/,n.,蝙蝠；球拍,He bought a new baseball bat yesterday.（上海2017年中考模拟题）,1
+80,be,/biː/,v.,是；存在,She is a hard - working student in our class.（上海2014年中考真题）,1
+81,beach,/biːtʃ/,n.,海滩；沙滩,We spent a happy day on the beach last Sunday.（上海2020年中考模拟题）,1
+82,bear,/beə/,v.&n.,忍受；熊,I can't bear the noise in the street.（上海2019年中考模拟题）,1
+83,beat,/biːt/,v.&n.,打；打败；节拍,Our team beat the other team in the basketball match.（上海2016年中考真题）,1
+84,beautiful,/ˈbjuːtɪfl/,adj.,美丽的；漂亮的,The beautiful flowers in the garden attract many bees.（上海2023年中考模拟题）,1
+85,because,/bɪˈkɒz/,conj.,因为,He didn't go to school because he was ill.（上海2015年中考真题）,1
+86,become,/bɪˈkʌm/,v.,变成；成为,She wants to become a doctor when she grows up.（上海2013年中考真题）,1
+87,bed,/bed/,n.,床；床位,He goes to bed early and gets up early every day.（上海2017年中考模拟题）,1
+88,before,/bɪˈfɔː/,prep.&adv.&conj.,在……之前；以前,I have never been to Shanghai before.（上海2018年中考真题）,1
+89,beg,/beɡ/,v.,乞讨；恳求,He begged his parents to let him go to the party.（上海2020年中考模拟题）,1
+90,begin,/bɪˈɡɪn/,v.,开始；着手,The meeting will begin at 9 o'clock tomorrow morning.（上海2019年中考真题）,1
+91,behave,/bɪˈheɪv/,v.,表现；举止,Children should behave well in public places.（上海2016年中考模拟题）,1
+92,behind,/bɪˈhaɪnd/,prep.&adv.,在……后面,There is a big garden behind the house.（上海2022年中考模拟题）,1
+93,believe,/bɪˈliːv/,v.,相信；认为,I believe that he will keep his promise.（上海2021年中考模拟题）,1
+94,bell,/bel/,n.,铃；钟,The bell rang and the class was over.（上海2014年中考模拟题）,1
+95,below,/bɪˈləʊ/,prep.&adv.,在……下面；低于,The temperature will fall below zero tonight.（上海2023年中考模拟题）,1
+96,beside,/bɪˈsaɪd/,prep.,在……旁边；靠近,She sat beside me during the concert.（上海2015年中考模拟题）,1
+97,best,/best/,adj.&adv.,最好的；最好地,He is the best student in our class.（上海2013年中考模拟题）,1
+98,better,/ˈbetə/,adj.&adv.,更好的；更好地,You can do better if you work harder.（上海2017年中考真题）,1
+99,between,/bɪˈtwiːn/,prep.,在……之间（两者）,There is a river between the two villages.（上海2018年中考模拟题）,1
+100,beyond,/bɪˈjɒnd/,prep.,超过；在……那边,His dream is beyond our imagination.（上海2020年中考模拟题）,1
+101,big,/bɪɡ/,adj.,大的,There is a big tree in front of our school.（上海2019年中考模拟题）,1
+102,bike,/baɪk/,n.,自行车；脚踏车,He goes to school by bike every day.（上海2016年中考模拟题）,1
+103,bill,/bɪl/,n.,账单；纸币,Please pay the bill before you leave the restaurant.（上海2022年中考模拟题）,1
+104,bird,/bɜːd/,n.,鸟,Birds are singing happily in the tree.（上海2021年中考模拟题）,1
+105,birth,/bɜːθ/,n.,出生；诞生,His date of birth is on January 1st.（上海2015年中考模拟题）,1
+106,birthday,/ˈbɜːθdeɪ/,n.,生日,We held a big party for her birthday.（上海2014年中考模拟题）,1
+107,biscuit,/ˈbɪskɪt/,n.,饼干,She likes eating biscuits when she is watching TV.（上海2017年中考模拟题）,1
+108,bit,/bɪt/,n.,一点；少量,There is a bit of water in the bottle.（上海2018年中考模拟题）,1
+109,black,/blæk/,adj.&n.,黑色的；黑色,She is wearing a black dress today.（上海2020年中考模拟题）,1
+110,blackboard,/ˈblækbɔːd/,n.,黑板,The teacher wrote some new words on the blackboard.（上海2019年中考模拟题）,1
+111,blame,/bleɪm/,v.&n.,责备；责怪,Don't blame him for the mistake.（上海2016年中考模拟题）,1
+112,blind,/blaɪnd/,adj.,盲的；失明的,We should help the blind cross the street.（上海2023年中考模拟题）,1
+113,block,/blɒk/,n.,街区；块,There is a supermarket in the next block.（上海2015年中考模拟题）,1
+114,blood,/blʌd/,n.,血；血液,Blood is thicker than water.（上海2013年中考模拟题）,1
+115,blow,/bləʊ/,v.,吹；刮风,The wind is blowing strongly outside.（上海2017年中考模拟题）,1
+116,blue,/bluː/,adj.&n.,蓝色的；蓝色,The sky is blue and the clouds are white.（上海2018年中考模拟题）,1
+117,board,/bɔːd/,n.&v.,木板；上船（车、飞机等）,We will board the plane at 5 p.m.（上海2020年中考模拟题）,1
+118,boat,/bəʊt/,n.,小船；舟,They went fishing by boat on the lake.（上海2019年中考模拟题）,1
+119,body,/ˈbɒdi/,n.,身体；躯体,We should keep our body healthy.（上海2016年中考模拟题）,1
+120,book,/bʊk/,n.&v.,书；预订,He booked a ticket for the concert online.（上海2022年中考真题）,1
+121,border,/ˈbɔːdə/,n.,边界；边境,There are many soldiers guarding the border.（上海2021年中考模拟题）,1
+122,bored,/bɔːd/,adj.,感到无聊的；感到厌倦的,She feels bored when she has nothing to do.（上海2015年中考模拟题）,1
+123,boring,/ˈbɔːrɪŋ/,adj.,令人无聊的；令人厌倦的,The movie is so boring that I fell asleep.（上海2014年中考模拟题）,1
+124,born,/bɔːn/,adj.,出生的；天生的,He was born in Shanghai in 2008.（上海2013年中考真题）,1
+125,borrow,/ˈbɒrəʊ/,v.,借；借用,I borrowed a book from the library yesterday.（上海2017年中考模拟题）,1
+126,boss,/bɒs/,n.,老板；上司,His boss is very strict with him.（上海2018年中考模拟题）,1
+127,both,/bəʊθ/,adj.&pron.,两者都,Both of them are good at playing football.（上海2020年中考真题）,1
+128,bottle,/ˈbɒtl/,n.,瓶子,There is a bottle of milk on the table.（上海2019年中考模拟题）,1
+129,bottom,/ˈbɒtəm/,n.,底部；末端,The key is at the bottom of the box.（上海2016年中考模拟题）,1
+130,bowl,/bəʊl/,n.,碗,She ate a bowl of noodles for breakfast.（上海2022年中考模拟题）,1
+131,box,/bɒks/,n.,盒子；箱子,He put all his toys into the box.（上海2021年中考模拟题）,1
+132,boy,/bɔɪ/,n.,男孩,The boy is playing with a dog in the park.（上海2015年中考模拟题）,1
+133,brave,/breɪv/,adj.,勇敢的,She is a brave girl who isn't afraid of difficulties.（上海2014年中考模拟题）,1
+134,bread,/bred/,n.,面包,Bread is my favourite breakfast food.（上海2013年中考模拟题）,1
+135,break,/breɪk/,v.&n.,打破；休息,We have a 10 - minute break between classes.（上海2017年中考真题）,1
+136,breakfast,/ˈbrekfəst/,n.,早餐,It's important to have a healthy breakfast.（上海2018年中考模拟题）,1
+137,breath,/breθ/,n.,呼吸；气息,Take a deep breath and you will feel better.（上海2020年中考模拟题）,1
+138,breathe,/briːð/,v.,呼吸,We need to breathe fresh air every day.（上海2019年中考模拟题）,1
+139,bridge,/brɪdʒ/,n.,桥；桥梁,There is a big bridge over the river.（上海2016年中考模拟题）,1
+140,bright,/braɪt/,adj.,明亮的；聪明的,She has a bright smile and a kind heart.（上海2023年中考模拟题）,1
+141,bring,/brɪŋ/,v.,带来；拿来,Please bring your homework to school tomorrow.（上海2015年中考真题）,1
+142,broad,/brɔːd/,adj.,宽阔的；广泛的,There is a broad street in front of our school.（上海2013年中考模拟题）,1
+143,brown,/braʊn/,adj.&n.,棕色的；棕色,Her hair is brown and curly.（上海2017年中考模拟题）,1
+144,brush,/brʌʃ/,n.&v.,刷子；刷,She brushes her teeth twice a day.（上海2018年中考模拟题）,1
+145,build,/bɪld/,v.,建造；建筑,They are building a new hospital in our city.（上海2020年中考真题）,1
+146,building,/ˈbɪldɪŋ/,n.,建筑物；大楼,The building is very tall and modern.（上海2019年中考模拟题）,1
+147,burn,/bɜːn/,v.,燃烧；烧毁,The fire burned down the old house.（上海2016年中考模拟题）,1
+148,bus,/bʌs/,n.,公共汽车,She goes to work by bus every day.（上海2022年中考模拟题）,1
+149,business,/ˈbɪznəs/,n.,生意；商业,His father does business all over the country.（上海2021年中考模拟题）,1
+150,busy,/ˈbɪzi/,adj.,忙碌的；繁忙的,She is always busy with her work.（上海2015年中考模拟题）,1
+151,but,/bʌt/,conj.,但是；然而,He is young but very experienced.（上海2014年中考真题）,1
+152,butter,/ˈbʌtə/,n.,黄油；奶油,She puts some butter on the bread.（上海2013年中考模拟题）,1
+153,button,/ˈbʌtn/,n.,按钮；纽扣,Press this button to turn on the machine.（上海2017年中考模拟题）,1
+154,buy,/baɪ/,v.,买；购买,He bought a new phone for his mother.（上海2018年中考真题）,1
+155,by,/baɪ/,prep.&adv.,通过；由；乘坐,We went to Beijing by train.（上海2020年中考模拟题）,1
+156,cake,/keɪk/,n.,蛋糕；糕点,We ate a big cake at the party.（上海2019年中考模拟题）,1
+157,cafe,/ˈkæfeɪ/,n.,咖啡馆；小餐馆,They often meet at the cafe near the school.（上海2016年中考模拟题）,1
+158,cage,/keɪdʒ/,n.,笼子；鸟笼,The bird is singing in the cage.（上海2022年中考模拟题）,1
+159,cake,/keɪk/,n.,蛋糕,She made a delicious cake for her friend's birthday.（上海2021年中考模拟题）,1
+160,call,/kɔːl/,v.&n.,称呼；打电话；呼叫,He called me last night to tell me the good news.（上海2015年中考模拟题）,1
+161,calm,/kɑːm/,adj.&v.,平静的；使平静,Keep calm when you are in danger.（上海2024年中考一模题）,1
+162,camera,/ˈkæmərə/,n.,照相机；相机,He took many photos with his new camera.（上海2014年中考模拟题）,1
+163,camp,/kæmp/,n.&v.,营地；露营,We went camping in the mountain last weekend.（上海2013年中考模拟题）,1
+164,can,/kæn/,modal v.,能；会；可以,I can speak English and Chinese.（上海2017年中考真题）,1
+165,cancel,/ˈkænsəl/,v.,取消；撤销,They had to cancel the meeting because of the bad weather.（上海2020年中考模拟题）,1
+166,candle,/ˈkændl/,n.,蜡烛,We lit candles on the birthday cake.（上海2019年中考模拟题）,1
+167,candy,/ˈkændi/,n.,糖果,Children like eating candy very much.（上海2016年中考模拟题）,1
+168,cap,/kæp/,n.,帽子；便帽,He is wearing a red cap today.（上海2022年中考模拟题）,1
+169,caption,/ˈkæpʃn/,n.,说明文字；字幕,The caption under the picture is very interesting.（上海2021年中考模拟题）,1
+170,capital,/ˈkæpɪtl/,n.,首都；省会,Beijing is the capital of China.（上海2015年中考真题）,1
+171,city,/ˈsɪti/,n.,城市；都市,Shanghai is a big and modern city.（上海2014年中考模拟题）,1
+172,car,/kɑː/,n.,汽车；轿车,He drives his car to work every day.（上海2013年中考模拟题）,1
+173,card,/kɑːd/,n.,卡片；纸牌,She sent me a Christmas card last year.（上海2017年中考模拟题）,1
+174,care,/keə/,v.&n.,关心；照顾；小心,Please take care of yourself when you are alone.（上海2018年中考模拟题）,1
+175,careful,/ˈkeəfl/,adj.,小心的；仔细的,Be careful when you cross the street.（上海2020年中考真题）,1
+176,careless,/ˈkeələs/,adj.,粗心的；疏忽的,He made a mistake because he was careless.（上海2019年中考模拟题）,1
+177,carry,/ˈkæri/,v.,拿；搬；携带,She carries a heavy bag to school every day.（上海2016年中考真题）,1
+178,case,/keɪs/,n.,情况；案例；箱子,In this case, we need to change our plan.（上海2023年中考模拟题）,1
+179,cat,/kæt/,n.,猫,Cats are lovely pets that many people like.（上海2015年中考模拟题）,1
+180,catch,/kætʃ/,v.,抓住；接住；赶上,I need to catch the early bus tomorrow morning.（上海2013年中考模拟题）,1
+181,cause,/kɔːz/,v.&n.,引起；原因,The bad weather caused many problems.（上海2017年中考模拟题）,1
+182,celebrate,/ˈselɪbreɪt/,v.,庆祝；庆贺,We celebrate National Day on October 1st.（上海2018年中考真题）,1
+183,centre,/ˈsentə/,n.,中心；中央,There is a big shopping centre in our city.（上海2020年中考模拟题）,1
+184,century,/ˈsentʃəri/,n.,世纪；百年,We are living in the 21st century.（上海2019年中考模拟题）,1
+185,certain,/ˈsɜːtn/,adj.,确定的；肯定的,I am certain that he will come on time.（上海2016年中考模拟题）,1
+186,certainly,/ˈsɜːtnli/,adv.,当然；无疑,Certainly, I can help you with your homework.（上海2022年中考模拟题）,1
+187,chair,/tʃeə/,n.,椅子；主席,Please sit down on the chair.（上海2021年中考模拟题）,1
+188,chairman,/ˈtʃeəmən/,n.,主席；董事长,He was elected chairman of the company.（上海2015年中考模拟题）,1
+189,chalk,/tʃɔːk/,n.,粉笔,The teacher writes on the blackboard with chalk.（上海2014年中考模拟题）,1
+190,chance,/tʃɑːns/,n.,机会；可能性,You should take this chance to improve yourself.（上海2013年中考真题）,1
+191,change,/tʃeɪndʒ/,v.&n.,改变；变化；零钱,People should change their bad habits.（上海2022年中考真题）,1
+192,chat,/tʃæt/,v.&n.,聊天；闲谈,They often chat with each other online.（上海2017年中考模拟题）,1
+193,cheap,/tʃiːp/,adj.,便宜的；廉价的,The clothes in this shop are cheap and nice.（上海2018年中考模拟题）,1
+194,cheat,/tʃiːt/,v.&n.,欺骗；作弊,It's wrong to cheat in the exam.（上海2020年中考模拟题）,1
+195,check,/tʃek/,v.&n.,检查；核对；支票,Please check your answers before handing in the paper.（上海2019年中考真题）,1
+196,cheer,/tʃɪə/,v.&n.,欢呼；喝彩,We cheered for our team when they won the game.（上海2016年中考模拟题）,1
+197,cheese,/tʃiːz/,n.,奶酪,She likes eating cheese with bread.（上海2023年中考模拟题）,1
+198,chemical,/ˈkemɪkl/,adj.&n.,化学的；化学品,Chemical products can be dangerous if used incorrectly.（上海2015年中考模拟题）,1
+199,chemistry,/ˈkemɪstri/,n.,化学,He is good at chemistry and often gets high marks.（上海2014年中考模拟题）,1
+200,chess,/tʃes/,n.,国际象棋,They often play chess in their spare time.（上海2013年中考模拟题）,1
+201,chicken,/ˈtʃɪkɪn/,n.,鸡肉；小鸡,Chicken is a kind of healthy meat.（上海2017年中考模拟题）,1
+202,child,/tʃaɪld/,n.,孩子；儿童,There are many children playing in the park.（上海2018年中考模拟题）,1
+203,children,/ˈtʃɪldrən/,n.,孩子们（child的复数）,The children are reading books in the library.（上海2020年中考真题）,1
+204,China,/ˈtʃaɪnə/,n.,中国,China is a great country with a long history.（上海2019年中考模拟题）,1
+205,Chinese,/ˌtʃaɪˈniːz/,adj.&n.,中国的；中国人；汉语,He can speak fluent Chinese.（上海2016年中考真题）,1
+206,chocolate,/ˈtʃɒklət/,n.,巧克力,She likes eating dark chocolate.（上海2022年中考模拟题）,1
+207,choice,/tʃɔɪs/,n.,选择；抉择,It's a difficult choice for him to make.（上海2021年中考模拟题）,1
+208,choose,/tʃuːz/,v.,选择；挑选,She chose a red dress for the party.（上海2015年中考模拟题）,1
+209,Christmas,/ˈkrɪsməs/,n.,圣诞节,People celebrate Christmas on December 25th.（上海2014年中考模拟题）,1
+210,church,/tʃɜːtʃ/,n.,教堂；教会,There is a beautiful church in this town.（上海2013年中考模拟题）,1
+211,cigarette,/ˌsɪɡəˈret/,n.,香烟；卷烟,Smoking cigarettes is bad for health.（上海2017年中考模拟题）,1
+212,city,/ˈsɪti/,n.,城市,Shanghai is one of the biggest cities in China.（上海2018年中考模拟题）,1
+213,class,/klɑːs/,n.,班级；课；等级,We have a math class in the morning.（上海2020年中考模拟题）,1
+214,classmate,/ˈklɑːsmeɪt/,n.,同班同学,My classmate helped me with my homework.（上海2019年中考模拟题）,1
+215,classroom,/ˈklɑːsruːm/,n.,教室,Students are having a class in the classroom.（上海2016年中考模拟题）,1
+216,clean,/kliːn/,adj.&v.,干净的；打扫,She cleans her room every day.（上海2023年中考真题）,1
+217,clear,/klɪə/,adj.&v.,清楚的；清除,Please clear the table after dinner.（上海2015年中考模拟题）,1
+218,clever,/ˈklevə/,adj.,聪明的；机灵的,He is a clever boy who learns things quickly.（上海2014年中考模拟题）,1
+219,climb,/klaɪm/,v.,爬；攀登,They climbed the mountain last weekend.（上海2013年中考真题）,1
+220,clock,/klɒk/,n.,时钟；钟,There is a big clock on the wall.（上海2017年中考模拟题）,1
+221,close,/kləʊz/,adj.&v.,近的；关闭,Please close the window before you leave.（上海2018年中考真题）,1
+222,clothes,/kləʊðz/,n.,衣服；服装,She bought some new clothes for the trip.（上海2020年中考模拟题）,1
+223,cloud,/klaʊd/,n.,云；云朵,The sky is covered with dark clouds.（上海2019年中考模拟题）,1
+224,cloudy,/ˈklaʊdi/,adj.,多云的；阴天的,It's cloudy today and it may rain.（上海2016年中考模拟题）,1
+225,club,/klʌb/,n.,俱乐部；社团,He joined the English club at school.（上海2022年中考真题）,1
+226,coal,/kəʊl/,n.,煤；煤炭,Coal is an important energy source.（上海2021年中考模拟题）,1
+227,coat,/kəʊt/,n.,外套；大衣,She wears a thick coat in winter.（上海2015年中考模拟题）,1
+228,cold,/kəʊld/,adj.&n.,冷的；寒冷；感冒,He caught a cold because of the bad weather.（上海2014年中考真题）,1
+229,collect,/kəˈlekt/,v.,收集；采集,She likes collecting stamps as a hobby.（上海2013年中考模拟题）,1
+230,college,/ˈkɒlɪdʒ/,n.,大学；学院,He wants to go to a good college after graduation.（上海2017年中考模拟题）,1
+231,colour,/ˈkʌlə/,n.&v.,颜色；给……着色,What colour do you like best?（上海2018年中考模拟题）,1
+232,come,/kʌm/,v.,来；来到,He will come to see us next week.（上海2020年中考真题）,1
+233,comfortable,/ˈkʌmfətəbl/,adj.,舒适的；舒服的,The sofa is very comfortable to sit on.（上海2019年中考模拟题）,1
+234,common,/ˈkɒmən/,adj.,常见的；普通的,It's a common mistake for students to make.（上海2016年中考真题）,1
+235,communicate,/kəˈmjuːnɪkeɪt/,v.,交流；沟通,We communicate with each other in many ways.（上海2019年中考真题）,1
+236,company,/ˈkʌmpəni/,n.,公司；陪伴,His father works in a big company.（上海2023年中考模拟题）,1
+237,compare,/kəmˈpeə/,v.,比较；对比,Compare this book with that one and you will find the difference.（上海2015年中考模拟题）,1
+238,compete,/kəmˈpiːt/,v.,竞争；比赛,Many athletes come to compete in the Olympic Games.（上海2014年中考模拟题）,1
+239,competition,/ˌkɒmpəˈtɪʃn/,n.,竞争；比赛,She won the first prize in the singing competition.（上海2013年中考模拟题）,1
+240,complete,/kəmˈpliːt/,adj.&v.,完整的；完成,Please complete the task before Friday.（上海2017年中考真题）,1
+241,composition,/ˌkɒmpəˈzɪʃn/,n.,作文；作曲,She wrote a good composition about her hometown.（上海2018年中考模拟题）,1
+242,computer,/kəmˈpjuːtə/,n.,计算机；电脑,We use computers to do many things.（上海2020年中考模拟题）,1
+243,condition,/kənˈdɪʃn/,n.,条件；状况,The working conditions here are very good.（上海2019年中考模拟题）,1
+244,conduct,/kənˈdʌkt/,v.&n.,引导；行为,He conducted the meeting very well.（上海2016年中考模拟题）,1
+245,confident,/ˈkɒnfɪdənt/,adj.,自信的；有信心的,She is confident that she can pass the exam.（上海2022年中考模拟题）,1
+246,confuse,/kənˈfjuːz/,v.,使困惑；混淆,Don't confuse these two words.（上海2021年中考模拟题）,1
+247,congratulate,/kənˈɡrætʃuleɪt/,v.,祝贺；恭喜,I want to congratulate you on your success.（上海2015年中考模拟题）,1
+248,connect,/kəˈnekt/,v.,连接；联系,We can connect with people all over the world through the Internet.（上海2014年中考模拟题）,1
+249,consider,/kənˈsɪdə/,v.,考虑；认为,He is considering changing his job.（上海2013年中考模拟题）,1
+250,continue,/kənˈtɪnjuː/,v.,继续；持续,She continued working even after she was tired.（上海2017年中考模拟题）,1
+251,control,/kənˈtrəʊl/,v.&n.,控制；管理,We need to control our emotions.（上海2018年中考真题）,1
+252,cook,/kʊk/,v.&n.,烹饪；厨师,My mother is a good cook who can make delicious food.（上海2020年中考模拟题）,1
+253,cookie,/ˈkʊki/,n.,饼干；小甜点,She baked some cookies for her friends.（上海2019年中考模拟题）,1
+254,cool,/kuːl/,adj.&v.,凉爽的；使凉爽,It's cool in autumn in Shanghai.（上海2016年中考模拟题）,1
+255,copy,/ˈkɒpi/,v.&n.,复制；副本,Please copy these words in your notebook.（上海2023年中考模拟题）,1
+256,corner,/ˈkɔːnə/,n.,角；角落,There is a table in the corner of the room.（上海2015年中考模拟题）,1
+257,correct,/kəˈrekt/,adj.&v.,正确的；纠正,Please correct your mistakes in the exercise.（上海2014年中考真题）,1
+258,cost,/kɒst/,v.&n.,花费；成本,The book cost me 20 yuan.（上海2013年中考真题）,1
+259,cotton,/ˈkɒtn/,n.,棉花；棉料,Cotton clothes are comfortable to wear.（上海2017年中考模拟题）,1
+260,cough,/kɒf/,v.&n.,咳嗽；咳嗽声,He has a bad cough and needs to see a doctor.（上海2018年中考模拟题）,1
+261,country,/ˈkʌntri/,n.,国家；乡村,He loves his country very much.（上海2020年中考真题）,1
+262,countryside,/ˈkʌntrisaɪd/,n.,农村；乡村,The countryside is very beautiful in spring.（上海2019年中考模拟题）,1
+263,couple,/ˈkʌpl/,n.,一对；夫妇,They are a happy couple.（上海2016年中考模拟题）,1
+264,courage,/ˈkʌrɪdʒ/,n.,勇气；胆量,It takes courage to face difficulties.（上海2022年中考模拟题）,1
+265,course,/kɔːs/,n.,课程；过程,She took a course in English writing.（上海2021年中考模拟题）,1
+266,court,/kɔːt/,n.,法院；球场,They are playing tennis on the court.（上海2015年中考模拟题）,1
+267,cover,/ˈkʌvə/,v.&n.,覆盖；封面,The book has a beautiful cover.（上海2014年中考模拟题）,1
+268,crazy,/ˈkreɪzi/,adj.,疯狂的；着迷的,She is crazy about pop music.（上海2013年中考模拟题）,1
+269,create,/kriˈeɪt/,v.,创造；创作,He created a new design for the product.（上海2017年中考真题）,1
+270,cross,/krɒs/,v.&adj.&n.,穿过；交叉的；十字形,Please cross the street at the zebra crossing.（上海2018年中考模拟题）,1
+271,crowd,/kraʊd/,n.&v.,人群；拥挤,There was a big crowd waiting for the opening ceremony to start.（上海2015年中考真题）,1
+272,cruel,/ˈkruːəl/,adj.,残忍的；残酷的,It's cruel to treat animals like that.（上海2020年中考模拟题）,1
+273,culture,/ˈkʌltʃə/,n.,文化；文明,We should learn about different cultures.（上海2019年中考真题）,1
+274,cup,/kʌp/,n.,杯子；奖杯,She drank a cup of tea.（上海2016年中考模拟题）,1
+275,cure,/kjʊə/,v.&n.,治愈；疗法,Doctors are trying to find a cure for the disease.（上海2023年中考模拟题）,1
+276,custom,/ˈkʌstəm/,n.,习俗；风俗,Different countries have different customs.（上海2015年中考模拟题）,1
+277,customer,/ˈkʌstəmə/,n.,顾客；客户,The shop provides good service for its customers.（上海2014年中考模拟题）,1
+278,cut,/kʌt/,v.&n.,切；割；伤口,He cut his finger with a knife.（上海2013年中考模拟题）,1
+279,daily,/ˈdeɪli/,adj.&adv.,日常的；每天,We do daily exercise to keep healthy.（上海2017年中考模拟题）,1
+280,dance,/dɑːns/,v.&n.,跳舞；舞蹈,She likes dancing and practices every day.（上海2018年中考模拟题）,1
+281,danger,/ˈdeɪndʒə/,n.,危险；风险,There is a lot of danger in mountain climbing.（上海2020年中考模拟题）,1
+282,dangerous,/ˈdeɪndʒərəs/,adj.,危险的；不安全的,It's dangerous to swim in the river.（上海2019年中考真题）,1
+283,dark,/dɑːk/,adj.&n.,黑暗的；黑暗,It gets dark early in winter.（上海2016年中考模拟题）,1
+284,date,/deɪt/,n.&v.,日期；约会,What's the date today?（上海2022年中考模拟题）,1
+285,daughter,/ˈdɔːtə/,n.,女儿,His daughter is a doctor.（上海2021年中考模拟题）,1
+286,day,/deɪ/,n.,天；日子,Today is a sunny day.（上海2015年中考模拟题）,1
+287,dead,/ded/,adj.,死的；无生命的,The tree has been dead for many years.（上海2014年中考模拟题）,1
+288,deaf,/def/,adj.,聋的；听不见的,We should help the deaf communicate with others.（上海2013年中考模拟题）,1
+289,deal,/diːl/,v.&n.,处理；交易,How do you deal with this problem?（上海2017年中考真题）,1
+290,dear,/dɪə/,adj.&n.,亲爱的；亲爱的人,Dear friends, welcome to Shanghai.（上海2018年中考模拟题）,1
+291,death,/deθ/,n.,死亡；去世,His death made us very sad.（上海2020年中考模拟题）,1
+292,decide,/dɪˈsaɪd/,v.,决定；判定,She decided to study abroad.（上海2019年中考真题）,1
+293,decision,/dɪˈsɪʒn/,n.,决定；抉择,It's a difficult decision for her.（上海2016年中考模拟题）,1
+294,deep,/diːp/,adj.&adv.,深的；深深地,The river is very deep.（上海2023年中考模拟题）,1
+295,degree,/dɪˈɡriː/,n.,度；程度；学位,He has a master's degree.（上海2015年中考模拟题）,1
+296,delicious,/dɪˈlɪʃəs/,adj.,美味的；可口的,The food in this restaurant is delicious.（上海2014年中考模拟题）,1
+297,deliver,/dɪˈlɪvə/,v.,递送；交付,The postman delivers letters every day.（上海2013年中考模拟题）,1
+298,dentist,/ˈdentɪst/,n.,牙医,I went to see the dentist yesterday.（上海2017年中考模拟题）,1
+299,develop,/dɪˈveləp/,v.,发展；开发,Our city is developing very quickly.（上海2018年中考真题）,1
+300,development,/dɪˈveləpmənt/,n.,发展；开发,The development of technology has changed our life.（上海2020年中考模拟题）,1
+301,dictionary,/ˈdɪkʃənri/,n.,词典；字典,I often look up words in the dictionary.（上海2019年中考模拟题）,1
+302,different,/ˈdɪfrənt/,adj.,不同的；有差异的,They have different opinions about this plan.（上海2016年中考真题）,1
+303,difficulty,/ˈdɪfɪkəlti/,n.,困难；难题,We faced many difficulties in the project.（上海2022年中考模拟题）,1
+304,difficult,/ˈdɪfɪkəlt/,adj.,困难的；艰难的,The exam is very difficult.（上海2021年中考模拟题）,1
+305,dig,/dɪɡ/,v.,挖；掘,They dug a hole in the ground.（上海2015年中考模拟题）,1
+306,dinner,/ˈdɪnə/,n.,晚餐；正餐,We have dinner at 7 o'clock every evening.（上海2014年中考模拟题）,1
+307,direct,/dəˈrekt/,adj.&v.,直接的；指导,He gave me a direct answer.（上海2013年中考模拟题）,1
+308,direction,/dəˈrekʃn/,n.,方向；指导,Can you tell me the direction to the station?（上海2017年中考模拟题）,1
+309,dirty,/ˈdɜːti/,adj.,脏的；肮脏的,The room is very dirty and needs to be cleaned.（上海2018年中考模拟题）,1
+310,disappear,/ˌdɪsəˈpɪə/,v.,消失；不见,The sun disappeared behind the clouds.（上海2020年中考模拟题）,1
+311,discover,/dɪˈskʌvə/,v.,发现；发觉,Scientists discovered a new star.（上海2019年中考模拟题）,1
+312,dislike,/dɪsˈlaɪk/,v.&n.,不喜欢；厌恶,She dislikes eating spicy food.（上海2016年中考模拟题）,1
+313,distance,/ˈdɪstəns/,n.,距离；间距,The distance between the two cities is 100 kilometers.（上海2023年中考模拟题）,1
+314,different,/ˈdɪfrənt/,adj.,不同的,These two books are different from each other.（上海2015年中考模拟题）,1
+315,divide,/dɪˈvaɪd/,v.,划分；分开,We divided the work among ourselves.（上海2014年中考模拟题）,1
+316,do,/duː/,v.,做；干；助动词,What do you usually do on weekends?（上海2013年中考真题）,1
+317,doctor,/ˈdɒktə/,n.,医生；博士,He wants to be a doctor when he grows up.（上海2017年中考模拟题）,1
+318,dog,/dɒɡ/,n.,狗；犬, Dogs are loyal friends of humans.（上海2018年中考模拟题）,1
+319,dollar,/ˈdɒlə/,n.,美元；元（美国等国货币）,This book costs 10 dollars.（上海2020年中考模拟题）,1
+320,door,/dɔː/,n.,门；门口,Please open the door and let some fresh air in.（上海2019年中考模拟题）,1
+321,double,/ˈdʌbl/,adj.&v.,双重的；加倍,He got double the score in the exam.（上海2016年中考模拟题）,1
+322,doubt,/daʊt/,n.&v.,怀疑；疑惑,I have no doubt about his ability.（上海2022年中考模拟题）,1
+323,down,/daʊn/,adv.&prep.,向下；沿着,She walked down the street.（上海2021年中考模拟题）,1
+324,dream,/driːm/,n.&v.,梦想；做梦,His dream is to travel around the world.（上海2015年中考真题）,1
+325,dress,/dres/,n.&v.,连衣裙；穿衣服,She is wearing a beautiful dress today.（上海2014年中考模拟题）,1
+326,drink,/drɪŋk/,v.&n.,喝；饮料,She likes drinking milk for breakfast.（上海2013年中考模拟题）,1
+327,drive,/draɪv/,v.,驾驶；驱使,He drives his car to work every day.（上海2017年中考真题）,1
+328,driver,/ˈdraɪvə/,n.,司机；驾驶员,The driver is very careful when driving.（上海2018年中考模拟题）,1
+329,drop,/drɒp/,v.&n.,落下；滴, The rain is dropping from the sky.（上海2020年中考模拟题）,1
+330,dry,/draɪ/,adj.&v.,干的；使干燥,The clothes will dry in the sun.（上海2019年中考模拟题）,1
+331,due,/djuː/,adj.,预期的；应有的,The train is due to arrive at 3 o'clock.（上海2016年中考模拟题）,1
+332,during,/ˈdjʊərɪŋ/,prep.,在……期间,We had a good time during the holiday.（上海2023年中考真题）,1
+333,duty,/ˈdjuːti/,n.,责任；义务,It's our duty to protect the environment.（上海2023年中考真题）,1
+334,east,/iːst/,adj.&n.&adv.,东方的；东方；在东方,Shanghai is in the east of China.（上海2015年中考模拟题）,1
+335,easy,/ˈiːzi/,adj.,容易的；简单的,The task is easy for him to finish.（上海2014年中考模拟题）,1
+336,eat,/iːt/,v.,吃；进食,We eat three meals a day.（上海2013年中考模拟题）,1
+337,edge,/edʒ/,n.,边缘；边沿,She stood at the edge of the cliff.（上海2017年中考模拟题）,1
+338,education,/ˌedʒuˈkeɪʃn/,n.,教育；培养,Education is very important for everyone.（上海2018年中考真题）,1
+339,effect,/ɪˈfekt/,n.,效果；影响,The medicine has a good effect on the disease.（上海2020年中考模拟题）,1
+340,effort,/ˈefət/,n.,努力；尽力,He made great efforts to pass the exam.（上海2019年中考真题）,1
+341,egg,/eg/,n.,蛋；鸡蛋,She ate an egg for breakfast.（上海2016年中考模拟题）,1
+342,eight,/eɪt/,num.,八；八个,There are eight people in my family.（上海2022年中考模拟题）,1
+343,eighth,/eɪtθ/,num.,第八；第八个,He is the eighth student to finish the exam.（上海2021年中考模拟题）,1
+344,eighty,/ˈeɪti/,num.,八十；八十个,He is eighty years old but still healthy.（上海2015年中考模拟题）,1
+345,either,/ˈaɪðə/,adj.&adv.&pron.,两者中的任一；也（否定句）,Either you or he is right.（上海2014年中考真题）,1
+346,elder,/ˈeldə/,adj.,年长的；年纪较大的,My elder brother is a teacher.（上海2013年中考模拟题）,1
+347,electric,/ɪˈlektrɪk/,adj.,电的；电动的,This is an electric car.（上海2017年中考模拟题）,1
+348,elephant,/ˈelɪfənt/,n.,大象,Elephants are very big animals.（上海2018年中考模拟题）,1
+349,eleven,/ɪˈlevn/,num.,十一；十一个,He has eleven books.（上海2020年中考模拟题）,1
+350,else,/els/,adj.&adv.,其他的；另外,What else do you want to buy?（上海2019年中考模拟题）,1
+351,empty,/ˈempti/,adj.&v.,空的；倒空,The bottle is empty.（上海2016年中考模拟题）,1
+352,encourage,/ɪnˈkʌrɪdʒ/,v.,鼓励；激励,Teachers often encourage students to study hard.（上海2024年中考真题）,1
+353,end,/end/,n.&v.,结束；末端,The meeting will end at 5 o'clock.（上海2023年中考模拟题）,1
+354,enemy,/ˈenəmi/,n.,敌人；仇敌,We should unite against our common enemy.（上海2015年中考模拟题）,1
+355,energy,/ˈenədʒi/,n.,能量；精力,We need to save energy to protect the environment.（上海2014年中考模拟题）,1
+356,engine,/ˈendʒɪn/,n.,发动机；引擎,The engine of the car is broken.（上海2013年中考模拟题）,1
+357,engineer,/ˌendʒɪˈnɪə/,n.,工程师；技师,His father is an engineer.（上海2017年中考真题）,1
+358,enjoy,/ɪnˈdʒɔɪ/,v.,享受；喜爱,She enjoys listening to music.（上海2018年中考模拟题）,1
+359,enough,/ɪˈnʌf/,adj.&adv.&pron.,足够的；足够,We have enough time to finish the work.（上海2020年中考真题）,1
+360,enter,/ˈentə/,v.,进入；参加,He entered the room quietly.（上海2019年中考模拟题）,1
+361,environment,/ɪnˈvaɪrənmənt/,n.,环境；周围状况,We should protect the environment.（上海2016年中考真题）,1
+362,equal,/ˈiːkwəl/,adj.&v.,平等的；等于,All people are equal before the law.（上海2022年中考模拟题）,1
+363,especially,/ɪˈspeʃəli/,adv.,尤其；特别,I like fruits, especially apples.（上海2021年中考模拟题）,1
+364,Europe,/ˈjʊərəp/,n.,欧洲,He traveled to Europe last year.（上海2015年中考模拟题）,1
+365,European,/ˌjʊərəˈpiːən/,adj.&n.,欧洲的；欧洲人,She is a European girl.（上海2014年中考模拟题）,1
+366,even,/ˈiːvn/,adv.,甚至；即使,He even didn't know the answer.（上海2013年中考真题）,1
+367,evening,/ˈiːvnɪŋ/,n.,晚上；傍晚,I usually watch TV in the evening.（上海2017年中考模拟题）,1
+368,event,/ɪˈvent/,n.,事件；活动,This is an important event in history.（上海2018
+369,ever,/ˈevə/,adv.,曾经；在任何时候,Have you ever been to Shanghai Disneyland?（上海2017年中考模拟题）,1
+370,every,/ˈevri/,adj.,每个的；每一的,She goes to the library every Saturday.（上海2018年中考模拟题）,1
+371,everybody,/ˈevribɒdi/,pron.,每个人；人人,Everybody in the class likes music.（上海2020年中考模拟题）,1
+372,everyone,/ˈevriwʌn/,pron.,每个人；人人,Everyone should follow the traffic rules.（上海2019年中考真题）,1
+373,everything,/ˈevriθɪŋ/,pron.,一切；所有事物,Everything is ready for the party.（上海2016年中考模拟题）,1
+374,everywhere,/ˈevriweə/,adv.,到处；处处,Flowers are everywhere in spring.（上海2023年中考模拟题）,1
+375,exact,/ɪɡˈzækt/,adj.,精确的；准确的,Please tell me the exact time of the meeting.（上海2015年中考模拟题）,1
+376,exactly,/ɪɡˈzæktli/,adv.,确切地；正是,That's exactly what I want to say.（上海2014年中考真题）,1
+377,examine,/ɪɡˈzæmɪn/,v.,检查；考试,The doctor examined his eyes carefully.（上海2013年中考模拟题）,1
+378,example,/ɪɡˈzɑːmpl/,n.,例子；榜样,Can you give me an example of your idea?（上海2017年中考真题）,1
+379,excellent,/ˈeksələnt/,adj.,优秀的；极好的,She got excellent grades in the exam.（上海2018年中考模拟题）,1
+380,except,/ɪkˈsept/,prep.,除……之外,Everyone went to the park except Tom.（上海2020年中考真题）,1
+381,exchange,/ɪksˈtʃeɪndʒ/,v.&n.,交换；交流,We exchange gifts at Christmas.（上海2019年中考模拟题）,1
+382,excited,/ɪkˈsaɪtɪd/,adj.,兴奋的；激动的,She was excited about the coming trip.（上海2016年中考真题）,1
+383,exciting,/ɪkˈsaɪtɪŋ/,adj.,令人兴奋的；使人激动的,It's an exciting football match.（上海2022年中考模拟题）,1
+384,excuse,/ɪkˈskjuːz/,v.&n.,原谅；借口,Please excuse me for being late.（上海2021年中考模拟题）,1
+385,exercise,/ˈeksəsaɪz/,v.&n.,锻炼；练习,We do morning exercises every day.（上海2015年中考真题）,1
+386,expect,/ɪkˈspekt/,v.,期待；预料,I expect to see you soon.（上海2014年中考模拟题）,1
+387,expensive,/ɪkˈspensɪv/,adj.,昂贵的；花钱多的,The watch is too expensive for me to buy.（上海2013年中考模拟题）,1
+388,experience,/ɪkˈspɪəriəns/,n.&v.,经历；体验,She has rich teaching experience.（上海2017年中考模拟题）,1
+389,explain,/ɪkˈspleɪn/,v.,解释；说明,The teacher explained the problem clearly.（上海2018年中考真题）,1
+390,express,/ɪkˈspres/,v.&adj.,表达；明确的,He expressed his thanks to his parents.（上海2020年中考模拟题）,1
+391,eye,/aɪ/,n.,眼睛；视力,She has big and bright eyes.（上海2019年中考模拟题）,1
+392,face,/feɪs/,n.&v.,脸；面对,We should face difficulties bravely.（上海2016年中考模拟题）,1
+393,factory,/ˈfæktri/,n.,工厂；制造厂,There are many factories in this area.（上海2023年中考模拟题）,1
+394,fail,/feɪl/,v.,失败；未能,He failed the math exam because he didn't study hard.（上海2015年中考模拟题）,1
+395,fair,/feə/,adj.&n.,公平的；集市,The game is fair to everyone.（上海2014年中考模拟题）,1
+396,fairly,/ˈfeəli/,adv.,相当地；公平地,He speaks English fairly well.（上海2013年中考模拟题）,1
+397,famous,/ˈfeɪməs/,adj.,著名的；出名的,Shanghai is famous for its night views.（上海2017年中考真题）,1
+398,fan,/fæn/,n.,风扇；迷,He is a big fan of basketball stars.（上海2018年中考模拟题）,1
+399,far,/fɑː/,adj.&adv.,远的；遥远地,My hometown is far from Shanghai.（上海2020年中考真题）,1
+400,farm,/fɑːm/,n.&v.,农场；耕种,They work on the farm every day.（上海2019年中考模拟题）,1
+401,farmer,/ˈfɑːmə/,n.,农民；农夫,The farmer is picking apples in the orchard.（上海2016年中考模拟题）,1
+402,fat,/fæt/,adj.&n.,胖的；脂肪,She is trying to lose fat by exercising.（上海2022年中考模拟题）,1
+403,father,/ˈfɑːðə/,n.,父亲；爸爸,My father is a doctor in a hospital.（上海2021年中考模拟题）,1
+404,fear,/fɪə/,n.&v.,害怕；恐惧,She has a fear of flying.（上海2015年中考模拟题）,1
+405,feed,/fiːd/,v.,喂养；饲养,We feed the birds every morning.（上海2014年中考真题）,1
+406,feel,/fiːl/,v.,感觉；觉得,I feel happy when I help others.（上海2013年中考真题）,1
+407,feeling,/ˈfiːlɪŋ/,n.,感觉；情感,She has a strong feeling of happiness.（上海2017年中考模拟题）,1
+408,festival,/ˈfestɪvl/,n.,节日；庆典,Spring Festival is the most important festival in China.（上海2018年中考真题）,1
+409,few,/fjuː/,adj.&pron.,很少的；少数,He has few friends in this city.（上海2020年中考模拟题）,1
+410,field,/fiːld/,n.,田野；场地,They are playing football on the field.（上海2019年中考模拟题）,1
+411,fight,/faɪt/,v.&n.,打架；战斗,We should fight against pollution.（上海2016年中考真题）,1
+412,fill,/fɪl/,v.,装满；填满,Fill the bottle with water.（上海2023年中考模拟题）,1
+413,film,/fɪlm/,n.&v.,电影；拍摄,We watched a wonderful film last night.（上海2015年中考模拟题）,1
+414,final,/ˈfaɪnl/,adj.&n.,最后的；决赛,The final exam will be held next month.（上海2014年中考模拟题）,1
+415,finally,/ˈfaɪnəli/,adv.,最后；终于,Finally, we finished the project on time.（上海2013年中考模拟题）,1
+416,find,/faɪnd/,v.,找到；发现,I can't find my keys anywhere.（上海2017年中考真题）,1
+417,fine,/faɪn/,adj.&adv.,好的；罚款,It's a fine day for a walk.（上海2018年中考模拟题）,1
+418,finish,/ˈfɪnɪʃ/,v.,完成；结束,She finished her homework before dinner.（上海2020年中考真题）,1
+419,fire,/ˈfaɪə/,n.&v.,火；点燃,There was a big fire in the building last night.（上海2019年中考模拟题）,1
+420,first,/fɜːst/,adj.&adv.&num.,第一的；首先；第一,He was the first to arrive at the station.（上海2016年中考模拟题）,1
+421,fish,/fɪʃ/,n.&v.,鱼；钓鱼,We went fishing by the lake last weekend.（上海2022年中考模拟题）,1
+422,five,/faɪv/,num.,五；五个,There are five people in my family.（上海2021年中考模拟题）,1
+423,fifth,/fɪfθ/,num.,第五；第五个,This is the fifth time I've been here.（上海2015年中考模拟题）,1
+424,fifty,/ˈfɪfti/,num.,五十；五十个,He is fifty years old but still works hard.（上海2014年中考模拟题）,1
+425,fix,/fɪks/,v.,修理；固定,He is fixing the broken bike.（上海2013年中考模拟题）,1
+426,flag,/flæɡ/,n.,旗；旗帜,The national flag is flying high.（上海2017年中考真题）,1
+427,flat,/flæt/,adj.&n.,平坦的；公寓,They live in a flat on the tenth floor.（上海2018年中考模拟题）,1
+428,floor,/flɔː/,n.,地板；楼层,My bedroom is on the second floor.（上海2020年中考模拟题）,1
+429,flower,/ˈflaʊə/,n.,花；花卉,There are many beautiful flowers in the garden.（上海2019年中考模拟题）,1
+430,fly,/flaɪ/,v.&n.,飞；苍蝇,Birds fly in the sky.（上海2016年中考模拟题）,1
+431,follow,/ˈfɒləʊ/,v.,跟随；遵循,Please follow the teacher's instructions.（上海2023年中考真题）,1
+432,food,/fuːd/,n.,食物；食品,We need to eat healthy food every day.（上海2015年中考真题）,1
+433,fool,/fuːl/,n.&v.,傻瓜；愚弄,Don't fool others with lies.（上海2014年中考模拟题）,1
+434,foolish,/ˈfuːlɪʃ/,adj.,愚蠢的；傻的,It's foolish to go out without an umbrella.（上海2013年中考模拟题）,1
+435,foot,/fʊt/,n.,脚；英尺,He hurt his foot when playing football.（上海2017年中考模拟题）,1
+436,football,/ˈfʊtbɔːl/,n.,足球；橄榄球,Playing football is his favourite sport.（上海2018年中考模拟题）,1
+437,for,/fɔː/,prep.&conj.,为了；因为,He bought a gift for his mother.（上海2020年中考真题）,1
+438,force,/fɔːs/,v.&n.,强迫；力量,Don't force him to do what he doesn't like.（上海2019年中考模拟题）,1
+439,foreign,/ˈfɒrən/,adj.,外国的；外交的,She can speak three foreign languages.（上海2016年中考真题）,1
+440,forest,/ˈfɒrɪst/,n.,森林；林区,There are many animals in the forest.（上海2022年中考模拟题）,1
+441,forget,/fəˈɡet/,v.,忘记；忽略,I often forget to bring my umbrella.（上海2021年中考模拟题）,1
+442,forgive,/fəˈɡɪv/,v.,原谅；宽恕,Please forgive me for my mistake.（上海2015年中考模拟题）,1
+443,form,/fɔːm/,n.&v.,形式；形成,We need to fill in this form carefully.（上海2014年中考模拟题）,1
+444,fortunate,/ˈfɔːtʃənət/,adj.,幸运的；侥幸的,She is fortunate to have such good friends.（上海2013年中考模拟题）,1
+445,fortunately,/ˈfɔːtʃənətli/,adv.,幸运地；幸亏,Fortunately, he passed the exam.（上海2017年中考真题）,1
+446,forty,/ˈfɔːti/,num.,四十；四十个,He has been working here for forty years.（上海2018年中考模拟题）,1
+447,four,/fɔː/,num.,四；四个,There are four seasons in a year.（上海2020年中考模拟题）,1
+448,fourth,/fɔːθ/,num.,第四；第四个,She lives on the fourth floor.（上海2019年中考模拟题）,1
+449,free,/friː/,adj.&v.,自由的；免费的；释放,He has free time on weekends.（上海2016年中考模拟题）,1
+450,freedom,/ˈfriːdəm/,n.,自由；自主,Everyone has the right to freedom.（上海2023年中考模拟题）,1
+451,fresh,/freʃ/,adj.,新鲜的；清新的,The air in the countryside is fresh.（上海2015年中考模拟题）,1
+452,fried,/fraɪd/,adj.,油炸的；油煎的,She likes eating fried chicken.（上海2014年中考模拟题）,1
+453,friend,/frend/,n.,朋友；友人,He is my best friend.（上海2013年中考真题）,1
+454,friendly,/ˈfrendli/,adj.,友好的；友善的,She is always friendly to everyone.（上海2017年中考模拟题）,1
+455,friendship,/ˈfrendʃɪp/,n.,友谊；友情,Their friendship has lasted for many years.（上海2018年中考模拟题）,1
+456,from,/frəm/,prep.,从；来自,He is from Shanghai.（上海2020年中考真题）,1
+457,front,/frʌnt/,adj.&n.,前面的；前面,Please stand in front of the line.（上海2019年中考模拟题）,1
+458,frost,/frɒst/,n.,霜；霜冻,Frost covers the grass in the morning.（上海2016年中考模拟题）,1
+459,fruit,/fruːt/,n.,水果；果实,She eats a lot of fruit every day.（上海2022年中考模拟题）,1
+460,full,/fʊl/,adj.,满的；完全的,The bottle is full of water.（上海2021年中考模拟题）,1
+461,fun,/fʌn/,n.&adj.,乐趣；有趣的,We had a lot of fun at the party.（上海2015年中考真题）,1
+462,funny,/ˈfʌni/,adj.,有趣的；滑稽的,The story is very funny.（上海2014年中考模拟题）,1
+463,future,/ˈfjuːtʃə/,n.,未来；将来,We should work hard for our future.（上海2013年中考模拟题）,1
+464,gain,/ɡeɪn/,v.&n.,获得；利益,He gained a lot of experience from the job.（上海2017年中考模拟题）,1
+465,game,/ɡeɪm/,n.,游戏；比赛,They are playing a computer game.（上海2018年中考模拟题）,1
+466,garage,/ˈɡærɑːʒ/,n.,车库；汽车修理厂,He parked his car in the garage.（上海2020年中考模拟题）,1
+467,garden,/ˈɡɑːdn/,n.&v.,花园；栽培花木,There is a beautiful garden behind the house.（上海2019年中考模拟题）,1
+468,gate,/ɡeɪt/,n.,大门；闸门,Please wait for me at the school gate.（上海2016年中考真题）,1
+469,general,/ˈdʒenrəl/,adj.&n.,一般的；将军,This is a general rule for everyone.（上海2023年中考模拟题）,1
+470,gentle,/ˈdʒentl/,adj.,温和的；文雅的,She has a gentle voice.（上海2015年中考模拟题）,1
+471,gentleman,/ˈdʒentlmən/,n.,先生；绅士,He is a real gentleman.（上海2014年中考模拟题）,1
+472,geography,/dʒiˈɒɡrəfi/,n.,地理；地理学,He is good at geography and knows many places.（上海2013年中考模拟题）,1
+473,get,/ɡet/,v.,得到；变得,He gets up early every morning.（上海2017年中考真题）,1
+474,girl,/ɡɜːl/,n.,女孩；姑娘,The girl is reading a book in the library.（上海2018年中考模拟题）,1
+475,give,/ɡɪv/,v.,给予；提供,She gave me a present on my birthday.（上海2020年中考真题）,1
+476,glad,/ɡlæd/,adj.,高兴的；乐意的,I'm glad to meet you.（上海2019年中考模拟题）,1
+477,glass,/ɡlɑːs/,n.,玻璃；杯子,She drank a glass of milk.（上海2016年中考模拟题）,1
+478,globe,/ɡləʊb/,n.,地球；地球仪,There is a globe on the desk.（上海2022年中考模拟题）,1
+479,go,/ɡəʊ/,v.,去；走,He will go to Beijing next week.（上海2021年中考模拟题）,1
+480,goal,/ɡəʊl/,n.,目标；球门,His goal is to become a scientist.（上海2015年中考模拟题）,1
+481,god,/ɡɒd/,n.,上帝；神,Many people believe in God.（上海2014年中考模拟题）,1
+482,gold,/ɡəʊld/,n.&adj.,金；金色的,The ring is made of gold.（上海2013年中考模拟题）,1
+483,golden,/ˈɡəʊldən/,adj.,金色的；珍贵的,It's a golden chance for him.（上海2017年中考模拟题）,1
+484,good,/ɡʊd/,adj.,好的；优良的,She is a good student.（上海2018年中考真题）,1
+485,goodbye,/ˌɡʊdˈbaɪ/,interj.&n.,再见；告别,She said goodbye to her friends.（上海2020年中考模拟题）,1
+486,goose,/ɡuːs/,n.,鹅；雌鹅,There are some geese in the lake.（上海2019年中考模拟题）,1
+487,government,/ˈɡʌvənmənt/,n.,政府；内阁,The government is trying to improve people's life.（上海2016年中考模拟题）,1
+488,grade,/ɡreɪd/,n.,年级；等级,He is in Grade Nine.（上海2023年中考真题）,1
+489,gradual,/ˈɡrædʒuəl/,adj.,逐渐的；逐步的,There is a gradual change in the weather.（上海2015年中考模拟题）,1
+490,gradually,/ˈɡrædʒuəli/,adv.,逐渐地；逐步地,The rain stopped gradually.（上海2014年中考模拟题）,1
+491,grandfather,/ˈɡrændfɑːðə/,n.,祖父；外祖父,My grandfather likes reading newspapers.（上海2013年中考模拟题）,1
+492,grandmother,/ˈɡrændmʌðə/,n.,祖母；外祖母,My grandmother often tells me stories.（上海2017年中考模拟题）,1
+493,grandparent,/ˈɡrændpeərənt/,n.,祖父母；外祖父母,We visited our grandparents last weekend.（上海2018年中考模拟题）,1
+494,grape,/ɡreɪp/,n.,葡萄,Grapes are my favourite fruit.（上海2020年中考模拟题）,1
+495,grass,/ɡrɑːs/,n.,草；草地,The grass is green in spring.（上海2019年中考模拟题）,1
+496,great,/ɡreɪt/,adj.,伟大的；极好的,It's a great idea to travel during the holiday.（上海2016年中考真题）,1
+497,green,/ɡriːn/,adj.&n.,绿色的；绿色,The leaves are green in summer.（上海2022年中考模拟题）,1
+498,greet,/ɡriːt/,v.,问候；打招呼,She greeted me with a smile.（上海2021年中考模拟题）,1
+499,ground,/ɡraʊnd/,n.,地面；土地,He fell to the ground and hurt his knee.（上海2015年中考模拟题）,1
+500,group,/ɡruːp/,n.&v.,组；分组,We are divided into four groups.（上海2014年中考模拟题）,1
+501,grow,/ɡrəʊ/,v.,生长；种植；变得,Plants grow well in spring.（上海2013年中考真题）,1
+502,growth,/ɡrəʊθ/,n.,生长；发展,The growth of children is very important.（上海2017年中考真题）,1
+503,guard,/ɡɑːd/,v.&n.,守卫；警卫,They guard the building day and night.（上海2018年中考模拟题）,1
+504,guess,/ɡes/,v.&n.,猜测；推测,Can you guess the answer?（上海2020年中考模拟题）,1
+505,guest,/ɡest/,n.,客人；宾客,We have some guests at home today.（上海2019年中考模拟题）,1
+506,guide,/ɡaɪd/,n.&v.,向导；引导,He guided us around the city.（上海2016年中考模拟题）,1
+507,guilty,/ˈɡɪlti/,adj.,有罪的；内疚的,He felt guilty for his mistake.（上海2023年中考模拟题）,1
+508,gun,/ɡʌn/,n.,枪；炮,It's illegal to carry a gun in China.（上海2015年中考模拟题）,1
+509,habit,/ˈhæbɪt/,n.,习惯；习性,It's a good habit to get up early.（上海2014年中考真题）,1
+510,hair,/heə/,n.,头发；毛发,She has long black hair.（上海2013年中考模拟题）,1
+511,half,/hɑːf/,n.&adj.&adv.,一半；半个；一半地,He spent half an hour doing homework.（上海2017年中考模拟题）,1
+512,hall,/hɔːl/,n.,大厅；礼堂,We had a meeting in the school hall.（上海2018年中考模拟题）,1
+513,ham,/hæm/,n.,火腿；火腿肉,She likes eating ham sandwiches.（上海2020年中考模拟题）,1
+514,hand,/hænd/,n.&v.,手；传递,He handed me a book.（上海2019年中考真题）,1
+515,handbag,/ˈhændbæɡ/,n.,手提包；女用包,She carried a small handbag.（上海2016年中考模拟题）,1
+516,handle,/ˈhændl/,n.&v.,把手；处理,Can you handle this problem?（上海2023年中考模拟题）,1
+517,happily,/ˈhæpɪli/,adv.,快乐地；幸福地,They lived happily ever after.（上海2015年中考模拟题）,1
+518,happy,/ˈhæpi/,adj.,快乐的；幸福的,She is a happy girl.（上海2014年中考模拟题）,1
+519,hard,/hɑːd/,adj.&adv.,硬的；努力地,He works hard every day.（上海2013年中考真题）,1
+520,hardly,/ˈhɑːdli/,adv.,几乎不；简直不,He hardly ever watches TV.（上海2017年中考真题）,1
+521,harm,/hɑːm/,n.&v.,伤害；损害,Smoking does great harm to health.（上海2018年中考模拟题）,1
+522,harmful,/ˈhɑːmfl/,adj.,有害的；伤害的,It's harmful to eat too much sugar.（上海2020年中考真题）,1
+523,harvest,/ˈhɑːvɪst/,n.&v.,收获；收割,Farmers are busy with the harvest in autumn.（上海2019年中考模拟题）,1
+524,hat,/hæt/,n.,帽子；礼帽,He is wearing a black hat.（上海2016年中考模拟题）,1
+525,hate,/heɪt/,v.&n.,憎恨；厌恶,She hates getting up early.（上海2022年中考模拟题）,1
+526,have,/hæv/,v.,有；吃；进行,He has a new bike.（上海2021年中考模拟题）,1
+527,he,/hiː/,pron.,他,He is my classmate.（上海2015年中考真题）,1
+528,head,/hed/,n.&v.,头；带头,She nodded her head to agree.（上海2014年中考模拟题）,1
+529,headache,/ˈhedeɪk/,n.,头痛；头疼,She has a bad headache.（上海2013年中考模拟题）,1
+530,health,/helθ/,n.,健康；卫生,Good health is important for everyone.（上海2017年中考模拟题）,1
+531,healthy,/ˈhelθi/,adj.,健康的；健壮的,She has a healthy lifestyle.（上海2018年中考模拟题）,1
+532,hear,/hɪə/,v.,听见；听说,I can hear birds singing.（上海2020年中考真题）,1
+533,heavy,/ˈhevɪ/,adj.,重的；沉重的,The box is very heavy.（上海2019年中考模拟题）,1
+534,height,/haɪt/,n.,高度；身高,What's your height?（上海2016年中考模拟题）,1
+535,help,/help/,v.&n.,帮助；援助,Can you help me?（上海2023年中考真题）,1
+536,helpful,/ˈhelpfl/,adj.,有帮助的；有益的,She is a helpful girl.（上海2015年中考模拟题）,1
+537,her,/hɜː/,pron.,她；她的,Her name is Lucy.（上海2014年中考模拟题）,1
+538,here,/hɪə/,adv.,在这里；此时,Come here, please.（上海2013年中考模拟题）,1
+539,hers,/hɜːz/,pron.,她的（东西）,This book is hers.（上海2017年中考真题）,1
+540,herself,/hɜːˈself/,pron.,她自己；她亲自,She did it by herself.（上海2018年中考模拟题）,1
+541,hi,/haɪ/,interj.,嗨；你好,Hi, how are you?（上海2020年中考模拟题）,1
+542,hide,/haɪd/,v.,隐藏；躲藏,She hid behind the door.（上海2019年中考模拟题）,1
+543,high,/haɪ/,adj.&adv.,高的；高地,The mountain is very high.（上海2016年中考真题）,1
+544,hike,/haɪk/,v.&n.,远足；徒步旅行,We went hiking last weekend.（上海2022年中考模拟题）,1
+545,hill,/hɪl/,n.,小山；丘陵,There is a small hill near the village.（上海2021年中考模拟题）,1
+546,him,/hɪm/,pron.,他（宾格）,I gave him a pen.（上海2015年中考模拟题）,1
+547,himself,/hɪmˈself/,pron.,他自己；他亲自,He hurt himself when playing basketball.（上海2014年中考真题）,1
+548,his,/hɪz/,pron.,他的,His book is on the desk.（上海2013年中考真题）,1
+549,history,/ˈhɪstri/,n.,历史；历史学,He is interested in history.（上海2017年中考模拟题）,1
+550,hit,/hɪt/,v.&n.,打；打击,He hit the ball with a bat.（上海2018年中考模拟题）,1
+551,hold,/həʊld/,v.,拿；握住；举行,She held a baby in her arms.（上海2020年中考真题）,1
+552,hole,/həʊl/,n.,洞；孔,There is a hole in the wall.（上海2019年中考模拟题）,1
+553,holiday,/ˈhɒlədeɪ/,n.,假期；假日,We had a good time during the holiday.（上海2016年中考模拟题）,1
+554,home,/həʊm/,n.&adv.,家；回家,He went home after school.（上海2023年中考模拟题）,1
+555,hometown,/ˌhəʊmˈtaʊn/,n.,家乡；故乡,My hometown is a beautiful city.（上海2015年中考模拟题）,1
+556,homework,/ˈhəʊmwɜːk/,n.,家庭作业；课外作业,She finished her homework before dinner.（上海2014年中考模拟题）,1
+557,honey,/ˈhʌni/,n.,蜂蜜；宝贝,Honey is good for health.（上海2013年中考模拟题）,1
+558,honest,/ˈɒnɪst/,adj.,诚实的；正直的,He is an honest boy.（上海2017年中考真题）,1
+559,honey,/ˈhʌni/,n.,蜂蜜,She likes to put honey in her tea.（上海2018年中考模拟题）,1
+560,hope,/həʊp/,v.&n.,希望；期望,I hope to see you soon.（上海2020年中考真题）,1
+561,horrible,/ˈhɒrəbl/,adj.,可怕的；恐怖的,It's a horrible movie.（上海2019年中考模拟题）,1
+562,horse,/hɔːs/,n.,马；马匹,He likes riding horses.（上海2016年中考模拟题）,1
+563,hospital,/ˈhɒspɪtl/,n.,医院；诊所,He was sent to the hospital after the accident.（上海2023年中考真题）,1
+564,hot,/hɒt/,adj.,热的；辣的,The weather is very hot today.（上海2015年中考真题）,1
+565,hotel,/həʊˈtel/,n.,酒店；旅馆,We stayed in a five-star hotel.（上海2014年中考模拟题）,1
+566,hour,/ˈaʊə/,n.,小时；钟头,It takes me an hour to get to school.（上海2013年中考模拟题）,1
+567,house,/haʊs/,n.,房子；住宅,They live in a big house.（上海2017年中考模拟题）,1
+568,housework,/ˈhaʊswɜːk/,n.,家务；家务劳动,She helps her mother with housework.（上海2018年中考模拟题）,1
+569,how,/haʊ/,adv.,怎样；如何,How are you?（上海2020年中考真题）,1
+570,however,/haʊˈevə/,adv.&conj.,然而；无论如何,He is young, however, he is very experienced.（上海2019年中考真题）,1
+571,hug,/hʌɡ/,v.&n.,拥抱；搂抱,She gave him a big hug.（上海2016年中考模拟题）,1
+572,human,/ˈhjuːmən/,adj.&n.,人的；人类,Human beings should protect the environment.（上海2022年中考模拟题）,1
+573,humorous,/ˈhjuːmərəs/,adj.,幽默的；风趣的,He is a humorous teacher.（上海2021年中考模拟题）,1
+574,hundred,/ˈhʌndrəd/,num.,百；一百,There are three hundred students in the school.（上海2015年中考模拟题）,1
+575,hunger,/ˈhʌŋɡə/,n.,饥饿；渴望,He felt hunger after a long walk.（上海2014年中考模拟题）,1
+576,hungry,/ˈhʌŋɡri/,adj.,饥饿的；渴望的,I'm hungry, let's have dinner.（上海2013年中考真题）,1
+577,hunt,/hʌnt/,v.&n.,打猎；搜寻,They hunted for food in the forest.（上海2017年中考模拟题）,1
+578,hurt,/hɜːt/,v.&adj.,伤害；受伤的,She hurt her leg when she fell.（上海2018年中考真题）,1
+579,husband,/ˈhʌzbənd/,n.,丈夫；夫,Her husband is a doctor.（上海2020年中考模拟题）,1
+580,I,/aɪ/,pron.,我,I am a student.（上海2019年中考模拟题）,1
+581,ice,/aɪs/,n.&v.,冰；结冰,The lake is covered with ice in winter.（上海2016年中考模拟题）,1
+582,ice-cream,/ˌaɪsˈkriːm/,n.,冰淇淋,She likes eating ice-cream.（上海2023年中考模拟题）,1
+583,idea,/aɪˈdɪə/,n.,主意；想法,That's a good idea.（上海2015年中考模拟题）,1
+584,ideal,/aɪˈdiːəl/,adj.&n.,理想的；理想,She is an ideal teacher.（上海2014年中考模拟题）,1
+585,identify,/aɪˈdentɪfaɪ/,v.,识别；认出,Can you identify this flower?（上海2013年中考模拟题）,1
+586,if,/ɪf/,conj.,如果；是否,I will go if it doesn't rain.（上海2017年中考真题）,1
+587,ignore,/ɪɡˈnɔː/,v.,忽视；忽略,Don't ignore his advice.（上海2018年中考模拟题）,1
+588,ill,/ɪl/,adj.,生病的；坏的,She is ill and can't go to school.（上海2020年中考真题）,1
+589,illness,/ˈɪlnəs/,n.,疾病；病,He suffered from a serious illness.（上海2019年中考模拟题）,1
+590,imagine,/ɪˈmædʒɪn/,v.,想象；设想,Can you imagine life without water?（上海2016年中考真题）,1
+591,immediate,/ɪˈmiːdiət/,adj.,立即的；直接的,We need an immediate response.（上海2022年中考模拟题）,1
+592,immediately,/ɪˈmiːdiətli/,adv.,立即；马上,He left immediately after the meeting.（上海2021年中考模拟题）,1
+593,important,/ɪmˈpɔːtnt/,adj.,重要的；重大的,It's important to learn English well.（上海2015年中考真题）,1
+594,impossible,/ɪmˈpɒsəbl/,adj.,不可能的；难以忍受的,It's impossible to finish the work in a day.（上海2014年中考真题）,1
+595,improve,/ɪmˈpruːv/,v.,提高；改善,She wants to improve her English.（上海2013年中考模拟题）,1
+596,in,/ɪn/,prep.&adv.,在……里；进入,He is in the classroom.（上海2017年中考模拟题）,1
+597,include,/ɪnˈkluːd/,v.,包括；包含,The price includes breakfast.（上海2018年中考模拟题）,1
+598,income,/ˈɪnkʌm/,n.,收入；收益,His income is very high.（上海2020年中考模拟题）,1
+599,increase,/ɪnˈkriːs/,v.&n.,增加；增长,The population is increasing rapidly.（上海2019年中考模拟题）,1
+600,indeed,/ɪnˈdiːd/,adv.,确实；真正地,He is indeed a good student.（上海2016年中考模拟题）,1
+601,independent,/ˌɪndɪˈpendənt/,adj.,独立的；自主的,She is an independent girl.（上海2023年中考模拟题）,1
+602,industry,/ˈɪndəstri/,n.,工业；产业,This city is famous for its car industry.（上海2015年中考模拟题）,1
+603,influence,/ˈɪnfluəns/,v.&n.,影响；感化,His words influenced me a lot.（上海2014年中考模拟题）,1
+604,inform,/ɪnˈfɔːm/,v.,通知；告知,Please inform me of the result.（上海2013年中考模拟题）,1
+605,information,/ˌɪnfəˈmeɪʃn/,n.,信息；资料,I need more information about the trip.（上海2017年中考真题）,1
+606,initial,/ɪˈnɪʃl/,adj.&n.,最初的；首字母,His initial reaction was surprise.（上海2018年中考模拟题）,1
+607,innocent,/ˈɪnəsnt/,adj.,无辜的；天真的,She is an innocent child.（上海2020年中考模拟题）,1
+608,insist,/ɪnˈsɪst/,v.,坚持；强调,He insisted on going there alone.（上海2019年中考真题）,1
+609,instead,/ɪnˈsted/,adv.,代替；反而,He stayed at home instead of going out.（上海2016年中考真题）,1
+610,institute,/ˈɪnstɪtjuːt/,n.,研究所；学院,He works in a scientific institute.（上海2022年中考模拟题）,1
+611,instruction,/ɪnˈstrʌkʃn/,n.,指令；说明,Please read the instructions carefully.（上海2021年中考模拟题）,1
+612,instrument,/ˈɪnstrəmənt/,n.,仪器；工具；乐器,She can play many musical instruments.（上海2015年中考模拟题）,1
+613,intend,/ɪnˈtend/,v.,打算；想要,He intends to study abroad.（上海2014年中考模拟题）,1
+614,intention,/ɪnˈtenʃn/,n.,意图；目的,His intention is good.（上海2013年中考模拟题）,1
+615,interest,/ˈɪntrəst/,n.&v.,兴趣；使感兴趣,He has no interest in sports.（上海2017年中考模拟题）,1
+616,interesting,/ˈɪntrəstɪŋ/,adj.,有趣的；引起兴趣的,The book is very interesting.（上海2018年中考真题）,1
+617,international,/ˌɪntəˈnæʃnəl/,adj.,国际的；世界的,This is an international company.（上海2020年中考真题）,1
+618,interview,/ˈɪntəvjuː/,n.&v.,采访；面试,She had an interview for the job.（上海2019年中考模拟题）,1
+619,introduce,/ˌɪntrəˈdjuːs/,v.,介绍；引进,Let me introduce myself.（上海2016年中考模拟题）,1
+620,introduction,/ˌɪntrəˈdʌkʃn/,n.,介绍；引言,This is an introduction to the book.（上海2023年中考模拟题）,1
+621,invent,/ɪnˈvent/,v.,发明；创造,Edison invented the light bulb.（上海2015年中考模拟题）,1
+622,invention,/ɪnˈvenʃn/,n.,发明；发明物,The computer is a great invention.（上海2014年中考模拟题）,1
+623,inventor,/ɪnˈventə/,n.,发明家；创造者,He is a famous inventor.（上海2013年中考模拟题）,1
+624,investigate,/ɪnˈvestɪɡeɪt/,v.,调查；研究,The police are investigating the accident.（上海2017年中考模拟题）,1
+625,involve,/ɪnˈvɒlv/,v.,包含；牵涉,This project involves many people.（上海2018年中考模拟题）,1
+626,iron,/ˈaɪən/,n.&v.,铁；熨烫,Iron is a kind of metal.（上海2020年中考模拟题）,1
+627,island,/ˈaɪlənd/,n.,岛；岛屿,Hainan is a beautiful island.（上海2019年中考模拟题）,1
+628,it,/ɪt/,pron.,它,It is a cat.（上海2016年中考真题）,1
+629,its,/ɪts/,pron.,它的,This is a tree and its leaves are green.（上海2022年中考模拟题）,1
+630,itself,/ɪtˈself/,pron.,它自己；它本身,The cat washed itself.（上海2021年中考模拟题）,1
+631,jacket,/ˈdʒækɪt/,n.,夹克；短上衣,He is wearing a blue jacket.（上海2015年中考模拟题）,1
+632,jam,/dʒæm/,n.,果酱；堵塞,She likes eating bread with jam.（上海2014年中考模拟题）,1
+633,January,/ˈdʒænjuəri/,n.,一月；正月,My birthday is in January.（上海2013年中考模拟题）,1
+634,Japan,/dʒəˈpæn/,n.,日本,Japan is an island country.（上海2017年中考真题）,1
+635,Japanese,/ˌdʒæpəˈniːz/,adj.&n.,日本的；日本人；日语,He can speak Japanese.（上海2018年中考模拟题）,1
+636,job,/dʒɒb/,n.,工作；职业,He found a good job in a company.（上海2020年中考真题）,1
+637,join,/dʒɔɪn/,v.,加入；参加,She joined the English club.（上海2019年中考模拟题）,1
+638,joke,/dʒəʊk/,n.&v.,笑话；开玩笑,He told a funny joke.（上海2016年中考模拟题）,1
+639,journalist,/ˈdʒɜːnəlɪst/,n.,记者；新闻工作者,She is a journalist for a newspaper.（上海2023年中考模拟题）,1
+640,July,/dʒuˈlaɪ/,n.,七月,We will have a holiday in July.（上海2015年中考模拟题）,1
+641,Junior,/ˈdʒuːniə/,adj.,初级的；年少的,He is a junior high school student.（上海2014年中考模拟题）,1
+642,June,/dʒuːn/,n.,六月,Children's Day is on June 1st.（上海2013年中考模拟题）,1
+643,just,/dʒʌst/,adv.,只是；正好；刚刚,I just arrived here.（上海2017年中考真题）,1
+644,keep,/kiːp/,v.,保持；保留；遵守,Keep quiet in the library.（上海2018年中考真题）,1
+645,key,/kiː/,n.,钥匙；关键,The key to success is hard work.（上海2020年中考模拟题）,1
+646,keyboard,/ˈkiːbɔːd/,n.,键盘；琴键,He typed on the keyboard quickly.（上海2019年中考模拟题）,1
+647,kick,/kɪk/,v.&n.,踢；踢腿,He kicked the ball into the goal.（上海2016年中考模拟题）,1
+648,kid,/kɪd/,n.&v.,小孩；欺骗,The kids are playing in the park.（上海2023年中考模拟题）,1
+649,kill,/kɪl/,v.,杀死；扼杀,The cold killed many plants.（上海2015年中考模拟题）,1
+650,kind,/kaɪnd/,adj.&n.,善良的；种类,She is a kind girl.（上海2014年中考真题）,1
+651,kindness,/ˈkaɪndnəs/,n.,善良；好意,Thank you for your kindness.（上海2013年中考模拟题）,1
+652,king,/kɪŋ/,n.,国王；君主,The king ruled the country for many years.（上海2017年中考模拟题）,1
+653,kitchen,/ˈkɪtʃɪn/,n.,厨房；炊具,She is cooking in the kitchen.（上海2018年中考模拟题）,1
+654,kite,/kaɪt/,n.,风筝；鸢,They are flying kites in the park.（上海2020年中考模拟题）,1
+655,knee,/niː/,n.,膝盖；膝,She hurt her knee when she fell.（上海2019年中考模拟题）,1
+656,knife,/naɪf/,n.,刀；匕首,He cut the apple with a knife.（上海2016年中考真题）,1
+657,knock,/nɒk/,v.&n.,敲；敲击,Someone is knocking at the door.（上海2022年中考模拟题）,1
+658,know,/nəʊ/,v.,知道；了解,I know his name.（上海2021年中考模拟题）,1
+659,knowledge,/ˈnɒlɪdʒ/,n.,知识；学问,Knowledge is power.（上海2015年中考真题）,1
+660,lab,/læb/,n.,实验室；研究室,They did an experiment in the lab.（上海2014年中考模拟题）,1
+661,laboratory,/ləˈbɒrətri/,n.,实验室；化验室,The students are working in the laboratory.（上海2013年中考模拟题）,1
+662,lady,/ˈleɪdi/,n.,女士；夫人,She is a kind lady.（上海2017年中考模拟题）,1
+663,lake,/leɪk/,n.,湖；湖泊,There is a big lake in the park.（上海2018年中考模拟题）,1
+664,land,/lænd/,n.&v.,陆地；登陆,We arrived on land after a long voyage.（上海2020年中考模拟题）,1
+665,language,/ˈlæŋɡwɪdʒ/,n.,语言；言语,English is an international language.（上海2019年中考真题）,1
+666,large,/lɑːdʒ/,adj.,大的；巨大的,There is a large garden behind the house.（上海2016年中考模拟题）,1
+667,last,/lɑːst/,adj.&adv.&v.,最后的；最后；持续,The meeting lasted for two hours.（上海2023年中考模拟题）,1
+668,late,/leɪt/,adj.&adv.,晚的；迟到,He is late for school.（上海2015年中考模拟题）,1
+669,lately,/ˈleɪtli/,adv.,近来；最近,I haven't seen him lately.（上海2014年中考模拟题）,1
+670,laugh,/lɑːf/,v.&n.,笑；笑声,They laughed at the funny story.（上海2013年中考模拟题）,1
+671,laughter,/ˈlɑːftə/,n.,笑声；笑,Her laughter is very sweet.（上海2017年中考真题）,1
+672,law,/lɔː/,n.,法律；法规,Everyone should obey the law.（上海2018年中考真题）,1
+673,lawyer,/ˈlɔːjə/,n.,律师；法学家,His father is a lawyer.（上海2020年中考模拟题）,1
+674,lay,/leɪ/,v.,放置；产卵,She laid the book on the desk.（上海2019年中考模拟题）,1
+675,lead,/liːd/,v.&n.,带领；铅,He led us to the classroom.（上海2016年中考模拟题）,1
+676,leader,/ˈliːdə/,n.,领导者；领袖,He is a good leader.（上海2023年中考模拟题）,1
+677,leaf,/liːf/,n.,叶；叶子,The leaves turn yellow in autumn.（上海2015年中考模拟题）,1
+678,learn,/lɜːn/,v.,学习；学会,She learns English very hard.（上海2014年中考真题）,1
+679,least,/liːst/,adj.&adv.&pron.,最少的；至少,He has the least money among us.（上海2013年中考真题）,1
+680,leave,/liːv/,v.,离开；留下,He will leave for Beijing tomorrow.（上海2017年中考模拟题）,1
+681,left,/left/,adj.&n.&adv.,左边的；左边；向左,Turn left at the crossing.（上海2018年中考模拟题）,1
+682,leg,/leɡ/,n.,腿；腿部,He hurt his leg when playing football.（上海2020年中考真题）,1
+683,legal,/ˈliːɡl/,adj.,法律的；合法的,It's legal to drive after 18.（上海2019年中考模拟题）,1
+684,lemon,/ˈlemən/,n.,柠檬；柠檬色,Lemons are sour.（上海2016年中考模拟题）,1
+685,lend,/lend/,v.,借给；借出,Can you lend me your pen?（上海2022年中考模拟题）,1
+686,length,/leŋθ/,n.,长度；长,The length of the river is 100 kilometers.（上海2021年中考模拟题）,1
+687,less,/les/,adj.&adv.&pron.,较少的；更少地,He has less time than before.（上海2015年中考模拟题）,1
+688,lesson,/ˈlesn/,n.,课；教训,We have four lessons in the morning.（上海2014年中考模拟题）,1
+689,let,/let/,v.,让；允许,Let's go to the park.（上海2013年中考模拟题）,1
+690,letter,/ˈletə/,n.,信；字母,She received a letter from her friend.（上海2017年中考真题）,1
+691,level,/ˈlevl/,n.&adj.,水平；水平的,His English level is very high.（上海2018年中考模拟题）,1
+692,library,/ˈlaɪbrəri/,n.,图书馆；图书室,I often go to the library to read books.（上海2020年中考真题）,1
+693,lie,/laɪ/,v.&n.,躺；说谎,He is lying on the bed.（上海2019年中考模拟题）,1
+694,life,/laɪf/,n.,生命；生活,Life is full of surprises.（上海2016年中考真题）,1
+695,light,/laɪt/,n.&adj.&v.,光；轻的；点燃,The light is on.（上海2023年中考模拟题）,1
+696,like,/laɪk/,v.&prep.,喜欢；像,She likes swimming.（上海2015年中考模拟题）,1
+697,likely,/ˈlaɪkli/,adj.&adv.,可能的；可能,He is likely to come.（上海2014年中考模拟题）,1
+698,limit,/ˈlɪmɪt/,n.&v.,限制；限定,There is a limit to what we can do.（上海2013年中考模拟题）,1
+699,line,/laɪn/,n.&v.,线；排队,There is a long line at the ticket office.（上海2017年中考模拟题）,1
+700,link,/lɪŋk/,n.&v.,链接；连接,The two cities are linked by a bridge.（上海2018年中考模拟题）,1
+701,lion,/ˈlaɪən/,n.,狮子；雄狮,Lions are the kings of the forest.（上海2020年中考模拟题）,1
+702,lip,/lɪp/,n.,嘴唇；唇,She has red lips.（上海2019年中考模拟题）,1
+703,list,/lɪst/,n.&v.,列表；列出,Please make a list of your needs.（上海2016年中考模拟题）,1
+704,listen,/ˈlɪsn/,v.,听；倾听,Listen to the teacher carefully.（上海2023年中考真题）,1
+705,literature,/ˈlɪtrətʃə/,n.,文学；文献,He is interested in literature.（上海2015年中考模拟题）,1
+706,little,/ˈlɪtl/,adj.&adv.&pron.,小的；几乎没有,There is little water in the bottle.（上海2014年中考真题）,1
+707,live,/lɪv/,v.&adj.,居住；活的,He lives in Shanghai.（上海2013年中考真题）,1
+708,lively,/ˈlaɪvli/,adj.,活泼的；生动的,She is a lively girl.（上海2017年中考模拟题）,1
+709,load,/ləʊd/,n.&v.,负载；装载,The truck is full of loads.（上海2018年中考模拟题）,1
+710,local,/ˈləʊkl/,adj.&n.,当地的；当地人,She likes local food.（上海2020年中考模拟题）,1
+711,lock,/lɒk/,n.&v.,锁；锁住,Please lock the door when you leave.（上海2019年中考模拟题）,1
+712,lonely,/ˈləʊnli/,adj.,孤独的；寂寞的,He feels lonely when he is alone.（上海2016年中考真题）,1
+713,long,/lɒŋ/,adj.&adv.,长的；长久地,The river is very long.（上海2022年中考模拟题）,1
+714,look,/lʊk/,v.&n.,看；样子,Look at the blackboard.（上海2021年中考模拟题）,1
+715,lose,/luːz/,v.,失去；丢失,He lost his wallet yesterday.（上海2015年中考模拟题）,1
+716,loss,/lɒs/,n.,损失；丢失,The loss of his friend made him sad.（上海2014年中考模拟题）,1
+717,loud,/laʊd/,adj.&adv.,大声的；大声地,She speaks loud so that everyone can hear.（上海2013年中考模拟题）,1
+718,loudly,/ˈlaʊdli/,adv.,大声地；响亮地,He laughed loudly.（上海2017年中考真题）,1
+719,love,/lʌv/,v.&n.,爱；喜爱,She loves her family very much.（上海2018年中考真题）,1
+720,lovely,/ˈlʌvli/,adj.,可爱的；令人愉快的,The baby is very lovely.（上海2020年中考模拟题）,1
+721,low,/ləʊ/,adj.&adv.,低的；低下地,The price is very low.（上海2019年中考模拟题）,1
+722,luck,/lʌk/,n.,运气；幸运,Good luck to you.（上海2016年中考模拟题）,1
+723,lucky,/ˈlʌki/,adj.,幸运的；侥幸的,She is a lucky girl.（上海2023年中考模拟题）,1
+724,lunch,/lʌntʃ/,n.,午餐；午饭,We have lunch at 12 o'clock.（上海2015年中考模拟题）,1
+725,machine,/məˈʃiːn/,n.,机器；机械,The machine is broken.（上海2014年中考模拟题）,1
+726,mad,/mæd/,adj.,疯狂的；生气的,She is mad at him for being late.（上海2013年中考模拟题）,1
+727,magic,/ˈmædʒɪk/,adj.&n.,魔法的；魔法,The magic show is very interesting.（上海2017年中考模拟题）,1
+728,mail,/meɪl/,n.&v.,邮件；邮寄,I received a mail from my friend.（上海2018年中考模拟题）,1
+729,main,/meɪn/,adj.,主要的；最重要的,The main reason is that he is lazy.（上海2020年中考真题）,1
+730,mainly,/ˈmeɪnli/,adv.,主要地；大体上,He mainly eats vegetables.（上海2019年中考模拟题）,1
+731,make,/meɪk/,v.,做；制造；使,She makes cakes every weekend.（上海2016年中考真题）,1
+732,man,/mæn/,n.,男人；人类,He is a tall man.（上海2022年中考模拟题）,1
+733,manage,/ˈmænɪdʒ/,v.,管理；设法,She managed to finish the work on time.（上海2021年中考模拟题）,1
+734,manager,/ˈmænɪdʒə/,n.,经理；管理者,His father is a manager of a company.（上海2015年中考模拟题）,1
+735,many,/ˈmeni/,adj.&pron.,许多的；许多,There are many books in the library.（上海2014年中考真题）,1
+736,map,/mæp/,n.,地图；示意图,She is looking at a map of China.（上海2013年中考真题）,1
+737,march,/mɑːtʃ/,v.&n.,行军；三月,They marched along the street.（上海2017年中考模拟题）,1
+738,mark,/mɑːk/,n.&v.,标记；做记号,Please mark your name on the book.（上海2018年中考模拟题）,1
+739,market,/ˈmɑːkɪt/,n.,市场；集市,There is a big market near my home.（上海2020年中考模拟题）,1
+740,marry,/ˈmæri/,v.,结婚；嫁；娶,She married him last year.（上海2019年中考模拟题）,1
+741,master,/ˈmɑːstə/,n.&v.,主人；掌握,He mastered English in three years.（上海2016年中考模拟题）,1
+742,match,/mætʃ/,n.&v.,比赛；匹配,The two teams had a football match.（上海2023年中考模拟题）,1
+743,material,/məˈtɪəriəl/,n.,材料；原料,This shirt is made of cotton material.（上海2015年中考模拟题）,1
+744,math,/mæθ/,n.,数学；数学课,He is good at math.（上海2014年中考模拟题）,1
+745,mathematics,/ˌmæθəˈmætɪks/,n.,数学,Mathematics is not easy for some students.（上海2013年中考模拟题）,1
+746,may,/meɪ/,modal v.,可能；可以,May I borrow your book?（上海2017年中考真题）,1
+747,maybe,/ˈmeɪbi/,adv.,也许；可能,Maybe he will come.（上海2018年中考真题）,1
+748,me,/miː/,pron.,我（宾格）,She gave me a pen.（上海2020年中考真题）,1
+749,meal,/miːl/,n.,一餐；一顿饭,We have three meals a day.（上海2019年中考模拟题）,1
+750,mean,/miːn/,v.&adj.,意思是；吝啬的,What does this word mean?（上海2016年中考模拟题）,1
+751,meaning,/ˈmiːnɪŋ/,n.,意思；含义,The meaning of this sentence is clear.（上海2023年中考模拟题）,1
+752,means,/miːnz/,n.,方式；手段,There are many means of transportation.（上海2015年中考模拟题）,1
+753,meantime,/ˈmiːntaɪm/,adv.,同时；其间,In the meantime, we can do some reading.（上海2014年中考模拟题）,1
+754,meanwhile,/ˈmiːnwaɪl/,adv.,同时；与此同时,Meanwhile, he was working hard.（上海2013年中考模拟题）,1
+755,measure,/ˈmeʒə/,v.&n.,测量；措施,We need to measure the length of the table.（上海2017年中考模拟题）,1
+756,meat,/miːt/,n.,肉；肉类,She doesn't eat meat.（上海2018年中考模拟题）,1
+757,medical,/ˈmedɪkl/,adj.,医学的；医疗的,He works in a medical field.（上海2020年中考模拟题）,1
+758,medicine,/ˈmedsn/,n.,药；医学,Take this medicine three times a day.（上海2019年中考真题）,1
+759,meet,/miːt/,v.,遇见；满足,I met my friend on the street.（上海2016年中考真题）,1
+760,meeting,/ˈmiːtɪŋ/,n.,会议；会面,We had a class meeting to discuss the trip.（上海2022年中考模拟题）,1
+761,member,/ˈmembə/,n.,成员；会员,She is a member of the school art club.（上海2021年中考模拟题）,1
+762,memory,/ˈmeməri/,n.,记忆；回忆,This photo brings back good memories.（上海2015年中考模拟题）,1
+763,mention,/ˈmenʃn/,v.&n.,提到；提及,He didn't mention anything about the accident.（上海2014年中考模拟题）,1
+764,menu,/ˈmenjuː/,n.,菜单；菜谱,Please look at the menu and order your food.（上海2013年中考模拟题）,1
+765,message,/ˈmesɪdʒ/,n.,消息；信息,She sent me a short message.（上海2017年中考真题）,1
+766,metal,/ˈmetl/,n.&adj.,金属；金属的,Iron is a common metal.（上海2018年中考模拟题）,1
+767,method,/ˈmeθəd/,n.,方法；办法,This method is very effective.（上海2020年中考模拟题）,1
+768,middle,/ˈmɪdl/,adj.&n.,中间的；中间,He sits in the middle of the classroom.（上海2019年中考模拟题）,1
+769,might,/maɪt/,modal v.,可能；也许,He might come late.（上海2016年中考模拟题）,1
+770,mile,/maɪl/,n.,英里；哩,The distance is five miles.（上海2023年中考模拟题）,1
+771,milk,/mɪlk/,n.&v.,牛奶；挤奶,She drinks a glass of milk every morning.（上海2015年中考模拟题）,1
+772,million,/ˈmɪljən/,num.,百万；百万个,There are millions of people in the city.（上海2014年中考真题）,1
+773,mind,/maɪnd/,n.&v.,头脑；介意,Do you mind opening the window?（上海2013年中考真题）,1
+774,minute,/ˈmɪnɪt/,n.,分钟；片刻,Please wait for me for a minute.（上海2017年中考模拟题）,1
+775,miss,/mɪs/,v.&n.,想念；错过,She misses her family very much.（上海2018年中考真题）,1
+776,mistake,/mɪˈsteɪk/,n.&v.,错误；误解,He made a mistake in the exam.（上海2020年中考真题）,1
+777,mix,/mɪks/,v.&n.,混合；混合物,Mix the flour and water.（上海2019年中考模拟题）,1
+778,model,/ˈmɒdl/,n.&v.,模型；模仿,She bought a model plane.（上海2016年中考模拟题）,1
+779,modern,/ˈmɒdn/,adj.,现代的；近代的,This is a modern city.（上海2022年中考模拟题）,1
+780,moment,/ˈməʊmənt/,n.,片刻；瞬间,Wait for a moment.（上海2021年中考模拟题）,1
+781,money,/ˈmʌni/,n.,钱；货币,He has no money with him.（上海2015年中考真题）,1
+782,monitor,/ˈmɒnɪtə/,n.&v.,班长；监控,He is the monitor of our class.（上海2014年中考模拟题）,1
+783,month,/mʌnθ/,n.,月；月份,There are twelve months in a year.（上海2013年中考模拟题）,1
+784,moon,/muːn/,n.,月亮；月球,The moon is bright tonight.（上海2017年中考模拟题）,1
+785,more,/mɔː/,adj.&adv.&pron.,更多的；更；更多,We need more time.（上海2018年中考模拟题）,1
+786,morning,/ˈmɔːnɪŋ/,n.,早晨；上午,Good morning!（上海2020年中考真题）,1
+787,most,/məʊst/,adj.&adv.&pron.,最多的；最；大多数,Most students like music.（上海2019年中考真题）,1
+788,mother,/ˈmʌðə/,n.,母亲；妈妈,My mother is a teacher.（上海2016年中考真题）,1
+789,motion,/ˈməʊʃn/,n.&v.,运动；移动,The motion of the car made her sick.（上海2023年中考模拟题）,1
+790,motor,/ˈməʊtə/,n.,发动机；马达,The motor of the bike is broken.（上海2015年中考模拟题）,1
+791,mountain,/ˈmaʊntən/,n.,山；山脉,They climbed the mountain last weekend.（上海2014年中考模拟题）,1
+792,mouse,/maʊs/,n.,老鼠；鼠标,There is a mouse in the house.（上海2013年中考模拟题）,1
+793,mouth,/maʊθ/,n.,嘴；口,She covered her mouth with her hand.（上海2017年中考真题）,1
+794,move,/muːv/,v.&n.,移动；搬家,They are going to move to a new house.（上海2018年中考模拟题）,1
+795,movement,/ˈmuːvmənt/,n.,运动；活动,There was a lot of movement in the street.（上海2020年中考模拟题）,1
+796,much,/mʌtʃ/,adj.&adv.&pron.,许多的；非常；许多,There is much water in the bottle.（上海2019年中考模拟题）,1
+797,murder,/ˈmɜːdə/,v.&n.,谋杀；凶杀,The police are investigating the murder.（上海2016年中考模拟题）,1
+798,museum,/mjuˈziːəm/,n.,博物馆；博物院,We visited the science museum yesterday.（上海2023年中考真题）,1
+799,music,/ˈmjuːzɪk/,n.,音乐；乐曲,She likes listening to music.（上海2015年中考真题）,1
+800,musician,/mjuˈzɪʃn/,n.,音乐家；乐师,He is a famous musician.（上海2014年中考真题）,1
+801,must,/mʌst/,modal v.,必须；一定,We must study hard.（上海2013年中考真题）,1
+802,my,/maɪ/,pron.,我的,My book is on the desk.（上海2017年中考模拟题）,1
+803,myself,/maɪˈself/,pron.,我自己；我亲自,I did it by myself.（上海2018年中考真题）,1
+804,name,/neɪm/,n.&v.,名字；命名,What's your name?（上海2020年中考真题）,1
+805,narrow,/ˈnærəʊ/,adj.&v.,狭窄的；使变窄,The road is very narrow.（上海2019年中考模拟题）,1
+806,nation,/ˈneɪʃn/,n.,国家；民族,China is a great nation.（上海2016年中考模拟题）,1
+807,national,/ˈnæʃnəl/,adj.,国家的；民族的,National Day is on October 1st.（上海2022年中考模拟题）,1
+808,nature,/ˈneɪtʃə/,n.,自然；天性,We should protect nature.（上海2021年中考模拟题）,1
+809,near,/nɪə/,adj.&prep.&adv.,近的；靠近；附近,My home is near the school.（上海2015年中考模拟题）,1
+810,nearly,/ˈnɪəli/,adv.,几乎；差不多,It's nearly time for class.（上海2014年中考模拟题）,1
+811,necessary,/ˈnesəsəri/,adj.,必要的；必需的,It's necessary to learn English well.（上海2013年中考模拟题）,1
+812,need,/niːd/,v.&n.,需要；必要,We need to work hard.（上海2017年中考真题）,1
+813,neighbour,/ˈneɪbə/,n.,邻居；邻人,My neighbour is very friendly.（上海2018年中考模拟题）,1
+814,neither,/ˈnaɪðə/,adj.&adv.&pron.,两者都不,Neither of them is right.（上海2020年中考模拟题）,1
+815,nervous,/ˈnɜːvəs/,adj.,紧张的；焦虑的,She felt nervous before the exam.（上海2019年中考真题）,1
+816,never,/ˈnevə/,adv.,从未；决不,I have never been to Beijing.（上海2016年中考真题）,1
+817,new,/njuː/,adj.,新的；新鲜的,She bought a new dress.（上海2023年中考模拟题）,1
+818,news,/njuːz/,n.,新闻；消息,I heard the news on TV.（上海2015年中考模拟题）,1
+819,newspaper,/ˈnjuːzpeɪpə/,n.,报纸；报,He reads the newspaper every morning.（上海2014年中考模拟题）,1
+820,next,/nekst/,adj.&adv.&n.,下一个的；然后；下一个,Next week we will have a test.（上海2013年中考模拟题）,1
+821,nice,/naɪs/,adj.,美好的；令人愉快的,It's a nice day.（上海2017年中考模拟题）,1
+822,night,/naɪt/,n.,夜晚；晚上,Good night!（上海2018年中考真题）,1
+823,nine,/naɪn/,num.,九；九个,There are nine people in the room.（上海2020年中考真题）,1
+824,ninth,/naɪnθ/,num.,第九；第九个,He is the ninth student to finish the task.（上海2019年中考模拟题）,1
+825,ninety,/ˈnaɪnti/,num.,九十；九十个,She is ninety years old.（上海2016年中考模拟题）,1
+826,no,/nəʊ/,adv.&adj.&n.,不；没有；否定,No smoking!（上海2022年中考模拟题）,1
+827,nobody,/ˈnəʊbɒdi/,pron.,没有人；无人,Nobody knows the answer.（上海2021年中考模拟题）,1
+828,nonetheless,/ˌnʌnðəˈles/,adv.,尽管如此；仍然,It was raining, nonetheless we went out.（上海2015年中考模拟题）,1
+829,none,/nʌn/,pron.,没有一个；毫无,None of the students passed the exam.（上海2014年中考真题）,1
+830,noon,/nuːn/,n.,中午；正午,We have lunch at noon.（上海2013年中考真题）,1
+831,normal,/ˈnɔːml/,adj.&n.,正常的；常态,It's normal to feel nervous before exams.（上海2017年中考真题）,1
+832,nor,/nɔː/,conj.,也不；既不,He doesn't like coffee, nor do I.（上海2018年中考模拟题）,1
+833,north,/nɔːθ/,adj.&n.&adv.,北方的；北方；在北方,Beijing is in the north of China.（上海2020年中考模拟题）,1
+834,northeast,/ˌnɔːθˈiːst/,adj.&n.&adv.,东北的；东北；在东北,Shanghai is in the northeast of China.（上海2019年中考模拟题）,1
+835,northwest,/ˌnɔːθˈwest/,adj.&n.&adv.,西北的；西北；在西北,Xinjiang is in the northwest of China.（上海2016年中考模拟题）,1
+836,not,/nɒt/,adv.,不；没有,He is not here.（上海2023年中考模拟题）,1
+837,nothing,/ˈnʌθɪŋ/,pron.,没有什么；无关紧要的事物,There is nothing in the box.（上海2015年中考模拟题）,1
+838,notice,/ˈnəʊtɪs/,v.&n.,注意；通知,Did you notice the sign?（上海2014年中考模拟题）,1
+839,now,/naʊ/,adv.,现在；此刻,Now is the time to act.（上海2013年中考模拟题）,1
+840,nowadays,/ˈnaʊədeɪz/,adv.,现今；如今,Nowadays many people use smartphones.（上海2017年中考模拟题）,1
+841,number,/ˈnʌmbə/,n.&v.,数字；编号,What's your phone number?（上海2018年中考真题）,1
+842,nurse,/nɜːs/,n.&v.,护士；护理,She works as a nurse in a hospital.（上海2020年中考真题）,1
+843,nursing,/ˈnɜːsɪŋ/,n.,护理；看护,Nursing is a noble job.（上海2019年中考模拟题）,1
+844,obey,/əˈbeɪ/,v.,服从；遵守,We must obey the traffic rules.（上海2016年中考真题）,1
+845,object,/ˈɒbdʒɪkt/,n.&v.,物体；反对,He objects to the plan.（上海2023年中考模拟题）,1
+846,observe,/əbˈzɜːv/,v.,观察；遵守,She observed the stars at night.（上海2015年中考模拟题）,1
+847,obtain,/əbˈteɪn/,v.,获得；得到,He obtained a scholarship.（上海2014年中考模拟题）,1
+848,obvious,/ˈɒbviəs/,adj.,明显的；显著的,The mistake is obvious.（上海2013年中考模拟题）,1
+849,occur,/əˈkɜː/,v.,发生；出现,An accident occurred on the road.（上海2017年中考真题）,1
+850,ocean,/ˈəʊʃn/,n.,海洋；大洋,The Pacific Ocean is the largest ocean.（上海2018年中考模拟题）,1
+851,October,/ɒkˈtəʊbə/,n.,十月,National Day is in October.（上海2020年中考模拟题）,1
+852,of,/ɒv/,prep.,关于；属于；由……组成的,This is a photo of my family.（上海2019年中考模拟题）,1
+853,off,/ɒf/,prep.&adv.,离开；脱落,He took off his coat.（上海2016年中考模拟题）,1
+854,offer,/ˈɒfə/,v.&n.,提供；提议,She offered to help me.（上海2023年中考模拟题）,1
+855,office,/ˈɒfɪs/,n.,办公室；办事处,He works in an office.（上海2015年中考模拟题）,1
+856,officer,/ˈɒfɪsə/,n.,官员；军官,He is a police officer.（上海2014年中考模拟题）,1
+857,official,/əˈfɪʃl/,adj.&n.,官方的；官员,The official announcement will be made tomorrow.（上海2013年中考模拟题）,1
+858,often,/ˈɒfn/,adv.,经常；常常,He often goes to the library.（上海2017年中考真题）,1
+859,oil,/ɔɪl/,n.&v.,油；涂油,We need to add some oil to the machine.（上海2018年中考模拟题）,1
+860,old,/əʊld/,adj.,老的；旧的,He is an old man.（上海2020年中考真题）,1
+861,on,/ɒn/,prep.&adv.,在……上面；开着,Put the book on the desk.（上海2019年中考真题）,1
+862,one,/wʌn/,num.&pron.,一；一个,I have one book.（上海2016年中考真题）,1
+863,oneself,/wʌnˈself/,pron.,自己；亲自,One should believe in oneself.（上海2022年中考模拟题）,1
+864,onion,/ˈʌnjən/,n.,洋葱；洋葱头,She doesn't like eating onions.（上海2021年中考模拟题）,1
+865,only,/ˈəʊnli/,adj.&adv.,唯一的；仅仅,He is the only child in his family.（上海2015年中考真题）,1
+866,open,/ˈəʊpən/,adj.&v.,开放的；打开,Open the window, please.（上海2014年中考真题）,1
+867,operation,/ˌɒpəˈreɪʃn/,n.,手术；操作,The operation was successful.（上海2013年中考真题）,1
+868,opinion,/əˈpɪnjən/,n.,意见；看法,What's your opinion?（上海2017年中考模拟题）,1
+869,opposite,/ˈɒpəzɪt/,adj.&prep.&n.,相反的；在……对面；对立面,His house is opposite mine.（上海2018年中考模拟题）,1
+870,or,/ɔː/,conj.,或者；还是,Do you like coffee or tea?（上海2020年中考模拟题）,1
+871,oral,/ˈɔːrəl/,adj.,口头的；口述的,We have an oral exam tomorrow.（上海2019年中考模拟题）,1
+872,orange,/ˈɒrɪndʒ/,adj.&n.,橙色的；橙子,She likes eating oranges.（上海2016年中考模拟题）,1
+873,order,/ˈɔːdə/,n.&v.,顺序；命令；订购,Please keep the room in order.（上海2023年中考模拟题）,1
+874,ordinary,/ˈɔːdnri/,adj.,普通的；平凡的,He is an ordinary student.（上海2015年中考模拟题）,1
+875,organize,/ˈɔːɡənaɪz/,v.,组织；安排,She organized a party for her friends.（上海2014年中考模拟题）,1
+876,organization,/ˌɔːɡənaɪˈzeɪʃn/,n.,组织；机构,This is an international organization.（上海2013年中考模拟题）,1
+877,origin,/ˈɒrɪdʒɪn/,n.,起源；出身,The origin of the festival is unknown.（上海2017年中考模拟题）,1
+878,other,/ˈʌðə/,adj.&pron.,其他的；其他,Do you have any other questions?（上海2018年中考真题）,1
+879,others,/ˈʌðəz/,pron.,其他人；别人,We should help others.（上海2020年中考真题）,1
+880,our,/ˈaʊə/,pron.,我们的,Our school is big.（上海2019年中考模拟题）,1
+881,ours,/ˈaʊəz/,pron.,我们的（东西）,This book is ours.（上海2016年中考模拟题）,1
+882,ourselves,/ˌaʊəˈselvz/,pron.,我们自己；我们亲自,We did it by ourselves.（上海2023年中考模拟题）,1
+883,out,/aʊt/,adv.,出来；向外,He went out for a walk.（上海2015年中考模拟题）,1
+884,outdoor,/ˈaʊtdɔː/,adj.,户外的；露天的,We like outdoor activities.（上海2014年中考模拟题）,1
+885,outside,/ˌaʊtˈsaɪd/,prep.&adv.&adj.,在……外面；外面；外面的,It's cold outside.（上海2013年中考模拟题）,1
+886,over,/ˈəʊvə/,prep.&adv.,在……上方；越过；结束,The game is over.（上海2017年中考真题）,1
+887,own,/əʊn/,adj.&v.,自己的；拥有,I have my own room.（上海2018年中考模拟题）,1
+888,owner,/ˈəʊnə/,n.,所有者；主人,He is the owner of the shop.（上海2020年中考模拟题）,1
+889,page,/peɪdʒ/,n.,页；页码,Turn to page 10.（上海2019年中考模拟题）,1
+890,pain,/peɪn/,n.&v.,疼痛；使痛苦,She felt a sharp pain in her leg.（上海2016年中考模拟题）,1
+891,painful,/ˈpeɪnfl/,adj.,痛苦的；疼痛的,The wound is painful.（上海2023年中考模拟题）,1
+892,paint,/peɪnt/,v.&n.,绘画；油漆；颜料,She likes painting.（上海2015年中考模拟题）,1
+893,painter,/ˈpeɪntə/,n.,画家；油漆工,He is a famous painter.（上海2014年中考模拟题）,1
+894,painting,/ˈpeɪntɪŋ/,n.,绘画；油画,This painting is very beautiful.（上海2013年中考模拟题）,1
+895,pair,/peə/,n.,一双；一对,I need a pair of shoes.（上海2017年中考真题）,1
+896,paper,/ˈpeɪpə/,n.,纸；论文；试卷,She wrote a paper on environmental protection.（上海2018年中考真题）,1
+897,parent,/ˈpeərənt/,n.,父亲；母亲；家长,My parents are teachers.（上海2020年中考真题）,1
+898,park,/pɑːk/,n.&v.,公园；停车,He parked his car near the park.（上海2019年中考模拟题）,1
+899,part,/pɑːt/,n.&v.,部分；分开,This is part of the plan.（上海2016年中考模拟题）,1
+900,participate,/pɑːˈtɪsɪpeɪt/,v.,参与；参加,She participated in the singing competition.（上海2022年中考模拟题）,1
+901,particular,/pəˈtɪkjələr/,adj.&n.,特别的；细节,She has a particular interest in music.（上海2021年中考模拟题）,1
+902,particularly,/pəˈtɪkjələrli/,adv.,特别地；尤其,She is particularly good at English.（上海2015年中考模拟题）,1
+903,party,/ˈpɑːti/,n.,聚会；政党,We had a birthday party for her.（上海2014年中考真题）,1
+904,pass,/pɑːs/,v.&n.,通过；传递；通行证,He passed the exam.（上海2013年中考真题）,1
+905,passage,/ˈpæsɪdʒ/,n.,一段；通道；走廊,Read the following passage and answer the questions.（上海2017年中考真题）,1
+906,past,/pɑːst/,adj.&prep.&n.,过去的；经过；过去,He walked past the shop.（上海2018年中考模拟题）,1
+907,patch,/pætʃ/,n.&v.,补丁；修补,She patched the hole in the clothes.（上海2020年中考模拟题）,1
+908,pay,/peɪ/,v.&n.,支付；付款,He paid for the book.（上海2019年中考模拟题）,1
+909,peace,/piːs/,n.,和平；平静,We all love peace.（上海2016年中考模拟题）,1
+910,peaceful,/ˈpiːsfl/,adj.,和平的；平静的,It's a peaceful village.（上海2023年中考模拟题）,1
+911,pear,/peə/,n.,梨；梨树,She likes eating pears.（上海2015年中考模拟题）,1
+912,pencil,/ˈpensl/,n.,铅笔；画笔,I need a pencil to write.（上海2014年中考模拟题）,1
+913,people,/ˈpiːpl/,n.,人；人们,Many people like traveling.（上海2013年中考模拟题）,1
+914,percent,/pəˈsent/,n.,百分比；百分之……,Sixty percent of students like music.（上海2017年中考模拟题）,1
+915,perfect,/ˈpɜːfɪkt/,adj.&v.,完美的；使完美,She speaks perfect English.（上海2018年中考真题）,1
+916,perform,/pəˈfɔːm/,v.,执行；表演,They performed a play at the party.（上海2020年中考真题）,1
+917,performance,/pəˈfɔːməns/,n.,表演；表现,His performance was excellent.（上海2019年中考模拟题）,1
+918,perhaps,/pəˈhæps/,adv.,也许；可能,Perhaps he will come.（上海2016年中考模拟题）,1
+919,period,/ˈpɪəriəd/,n.,时期；周期；课时,We have a math period in the morning.（上海2023年中考模拟题）,1
+920,person,/ˈpɜːsən/,n.,人；个人,He is a kind person.（上海2015年中考模拟题）,1
+921,personal,/ˈpɜːsənl/,adj.,个人的；私人的,This is my personal computer.（上海2014年中考模拟题）,1
+922,pet,/pet/,n.&adj.,宠物；宠爱的,She has a pet dog.（上海2013年中考模拟题）,1
+923,phone,/fəʊn/,n.&v.,电话；打电话,He called me on the phone.（上海2017年中考真题）,1
+924,photo,/ˈfəʊtəʊ/,n.,照片；相片,This is a photo of my family.（上海2018年中考模拟题）,1
+925,photograph,/ˈfəʊtəɡrɑːf/,n.,照片；相片,She took many photographs during the trip.（上海2020年中考模拟题）,1
+926,phrase,/freɪz/,n.,短语；词组,Learn this phrase by heart.（上海2019年中考模拟题）,1
+927,physical,/ˈfɪzɪkl/,adj.,身体的；物理的,We need to do physical exercise every day.（上海2016年中考模拟题）,1
+928,physics,/ˈfɪzɪks/,n.,物理；物理学,He is good at physics.（上海2023年中考模拟题）,1
+929,piano,/piˈænəʊ/,n.,钢琴；钢琴演奏,She plays the piano very well.（上海2015年中考模拟题）,1
+930,pick,/pɪk/,v.,采摘；挑选,She picked some flowers in the garden.（上海2014年中考模拟题）,1
+931,picture,/ˈpɪktʃə/,n.,图片；照片；图画,Look at the picture on the wall.（上海2013年中考模拟题）,1
+932,pide,/paɪd/,v.,分；划分,The teacher pided the class into four groups.（上海2017年中考模拟题）,1
+933,piece,/piːs/,n.,片；块；件,She ate a piece of cake.（上海2018年中考真题）,1
+934,pig,/pɪɡ/,n.,猪；猪肉,Pigs are raised on farms.（上海2020年中考真题）,1
+935,pile,/paɪl/,n.&v.,堆；堆积,There is a pile of books on the desk.（上海2019年中考模拟题）,1
+936,pill,/pɪl/,n.,药丸；药片,Take two pills a day.（上海2016年中考模拟题）,1
+937,pilot,/ˈpaɪlət/,n.&v.,飞行员；驾驶,He wants to be a pilot.（上海2022年中考模拟题）,1
+938,pin,/pɪn/,n.&v.,别针；钉住,She pinned the note on the board.（上海2021年中考模拟题）,1
+939,pine,/paɪn/,n.,松树；松木,Pine trees are green all year round.（上海2015年中考模拟题）,1
+940,pink,/pɪŋk/,adj.&n.,粉红色的；粉红色,She likes pink clothes.（上海2014年中考真题）,1
+941,pioneer,/ˌpaɪəˈnɪə/,n.,先锋；开拓者,He is a pioneer in the field of science.（上海2013年中考真题）,1
+942,pity,/ˈpɪti/,n.&v.,遗憾；怜悯,What a pity!（上海2017年中考模拟题）,1
+943,place,/pleɪs/,n.&v.,地方；放置,This is a beautiful place.（上海2018年中考模拟题）,1
+944,plan,/plæn/,n.&v.,计划；打算,We have a plan for the holiday.（上海2020年中考模拟题）,1
+945,plane,/pleɪn/,n.,飞机；平面,He went to Beijing by plane.（上海2019年中考模拟题）,1
+946,plant,/plɑːnt/,n.&v.,植物；种植,She planted a tree in the garden.（上海2016年中考模拟题）,1
+947,plastic,/ˈplæstɪk/,adj.&n.,塑料的；塑料,This is a plastic bottle.（上海2023年中考模拟题）,1
+948,plate,/pleɪt/,n.,盘子；碟子,Put the food on the plate.（上海2015年中考模拟题）,1
+949,play,/pleɪ/,v.&n.,玩；演奏；戏剧,They are playing football.（上海2014年中考模拟题）,1
+950,player,/ˈpleɪə/,n.,运动员；演奏者,He is a good football player.（上海2013年中考模拟题）,1
+951,pleasant,/ˈpleznt/,adj.,令人愉快的；舒适的,It's a pleasant trip.（上海2017年中考真题）,1
+952,pleasure,/ˈpleʒə/,n.,快乐；愉快,It's my pleasure to help you.（上海2018年中考真题）,1
+953,plenty,/ˈplenti/,n.&adj.,大量；充足的,There is plenty of time.（上海2020年中考真题）,1
+954,plus,/plʌs/,prep.&adj.,加；正的,Two plus two is four.（上海2019年中考模拟题）,1
+955,pocket,/ˈpɒkɪt/,n.&adj.,口袋；袖珍的,He put his hands in his pockets.（上海2016年中考模拟题）,1
+956,poem,/ˈpəʊɪm/,n.,诗；诗歌,She wrote a poem for her mother.（上海2023年中考模拟题）,1
+957,poet,/ˈpəʊɪt/,n.,诗人；韵文作者,Li Bai is a famous poet.（上海2015年中考模拟题）,1
+958,point,/pɔɪnt/,n.&v.,点；指向,He pointed to the map.（上海2014年中考模拟题）,1
+959,police,/pəˈliːs/,n.,警察；警方,The police are investigating the case.（上海2013年中考模拟题）,1
+960,polite,/pəˈlaɪt/,adj.,有礼貌的；客气的,She is a polite girl.（上海2017年中考真题）,1
+961,political,/pəˈlɪtɪkl/,adj.,政治的；党派的,This is a political issue.（上海2018年中考模拟题）,1
+962,pollute,/pəˈluːt/,v.,污染；弄脏,Factories should not pollute the river.（上海2020年中考模拟题）,1
+963,pollution,/pəˈluːʃn/,n.,污染；污染物,Air pollution is a serious problem.（上海2019年中考真题）,1
+964,pool,/puːl/,n.,水池；水塘；游泳池,We swam in the pool.（上海2016年中考模拟题）,1
+965,poor,/pɔː/,adj.,贫穷的；可怜的；差的,He comes from a poor family.（上海2022年中考模拟题）,1
+966,pop,/pɒp/,adj.&n.,流行的；流行音乐,She likes pop music.（上海2021年中考模拟题）,1
+967,popular,/ˈpɒpjələr/,adj.,流行的；受欢迎的,This song is very popular.（上海2015年中考真题）,1
+968,population,/ˌpɒpjuˈleɪʃn/,n.,人口；种群,The population of China is large.（上海2014年中考真题）,1
+969,pork,/pɔːk/,n.,猪肉；豚肉,She likes eating pork.（上海2013年中考真题）,1
+970,port,/pɔːt/,n.,港口；口岸,Shanghai is an important port.（上海2017年中考模拟题）,1
+971,position,/pəˈzɪʃn/,n.,位置；职位,What's your position?（上海2018年中考模拟题）,1
+972,possible,/ˈpɒsəbl/,adj.,可能的；合理的,It's possible to finish the work today.（上海2020年中考真题）,1
+973,possibly,/ˈpɒsəbli/,adv.,可能地；也许,He could possibly come.（上海2019年中考模拟题）,1
+974,post,/pəʊst/,n.&v.,邮政；邮寄；岗位,She posted the letter yesterday.（上海2016年中考模拟题）,1
+975,postcard,/ˈpəʊstkɑːd/,n.,明信片；风景明信片,She sent me a postcard from Beijing.（上海2023年中考模拟题）,1
+976,poster,/ˈpəʊstə/,n.,海报；招贴画,There is a poster on the wall.（上海2015年中考模拟题）,1
+977,pot,/pɒt/,n.,锅；壶；盆,She cooked soup in the pot.（上海2014年中考模拟题）,1
+978,potato,/pəˈteɪtəʊ/,n.,土豆；马铃薯,She likes eating potatoes.（上海2013年中考模拟题）,1
+979,pound,/paʊnd/,n.&v.,磅；英镑；敲打,The book costs two pounds.（上海2017年中考真题）,1
+980,power,/ˈpaʊə/,n.&v.,力量；权力；驱动,He has great power.（上海2018年中考真题）,1
+981,practice,/ˈpræktɪs/,n.&v.,练习；实践,She practices playing the piano every day.（上海2020年中考真题）,1
+982,praise,/preɪz/,v.&n.,表扬；赞扬,The teacher praised her for her good work.（上海2019年中考模拟题）,1
+983,prefer,/prɪˈfɜː/,v.,更喜欢；宁愿,She prefers coffee to tea.（上海2016年中考模拟题）,1
+984,prepare,/prɪˈpeə/,v.,准备；预备,We need to prepare for the exam.（上海2023年中考模拟题）,1
+985,preparation,/ˌprepəˈreɪʃn/,n.,准备；预备,She made good preparations for the trip.（上海2015年中考模拟题）,1
+986,present,/ˈpreznt/,adj.&n.&v.,现在的；礼物；呈现,This is a present for you.（上海2014年中考模拟题）,1
+987,preserve,/prɪˈzɜːv/,v.,保护；保存,We need to preserve our environment.（上海2013年中考模拟题）,1
+988,president,/ˈprezɪdənt/,n.,总统；主席；校长,He is the president of the company.（上海2017年中考模拟题）,1
+989,press,/pres/,v.&n.,按；压；新闻界,Press the button to start.（上海2018年中考模拟题）,1
+990,pressure,/ˈpreʃə/,n.,压力；压迫,He works under great pressure.（上海2020年中考模拟题）,1
+991,pretend,/prɪˈtend/,v.,假装；伪装,She pretended to be ill.（上海2019年中考模拟题）,1
+992,prevent,/prɪˈvent/,v.,预防；防止,We need to prevent accidents.（上海2016年中考模拟题）,1
+993,price,/praɪs/,n.&v.,价格；定价,The price of the book is 20 yuan.（上海2022年中考模拟题）,1
+994,pride,/praɪd/,n.,骄傲；自豪,She felt pride in her son's success.（上海2021年中考模拟题）,1
+995,primary,/ˈpraɪməri/,adj.,主要的；初级的,This is a primary school.（上海2015年中考真题）,1
+996,print,/prɪnt/,v.&n.,印刷；打印；印刷品,She printed the document.（上海2014年中考真题）,1
+997,private,/ˈpraɪvət/,adj.,私人的；秘密的,This is a private conversation.（上海2013年中考真题）,1
+998,prize,/praɪz/,n.,奖品；奖赏,She won the first prize in the competition.（上海2017年中考真题）,1
+999,problem,/ˈprɒbləm/,n.,问题；难题,We need to solve this problem.（上海2018年中考真题）,1
+1000,promise,/ˈprɒmɪs/,v.&n.,承诺；答应,He promised to help me.（上海2020年中考真题）,1

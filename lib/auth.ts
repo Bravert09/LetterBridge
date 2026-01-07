@@ -1,7 +1,7 @@
 import { compare, hash } from 'bcrypt'
 import { nanoid } from 'nanoid'
 import { cookies } from 'next/headers'
-import { db } from '@/db'
+import { db } from '@/db/db'
 import { users } from '@/db/schema'
 import * as jose from 'jose'
 import { cache } from 'react'

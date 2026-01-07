@@ -1,61 +1,70 @@
-import { InferSelectModel, relations } from 'drizzle-orm'
-import { pgTable, serial, text, timestamp, pgEnum } from 'drizzle-orm/pg-core'
+import {
+  pgTable,
+  serial,
+  varchar,
+  text,
+  integer,
+  timestamp,
+} from 'drizzle-orm/pg-core'
 
-// Enums for issue status and priority
-export const statusEnum = pgEnum('status', [
-  'backlog',
-  'todo',
-  'in_progress',
-  'done',
-])
-export const priorityEnum = pgEnum('priority', ['low', 'medium', 'high'])
-
-// Issues table
-export const issues = pgTable('issues', {
-  id: serial('id').primaryKey(),
-  title: text('title').notNull(),
-  description: text('description'),
-  status: statusEnum('status').default('backlog').notNull(),
-  priority: priorityEnum('priority').default('medium').notNull(),
-  createdAt: timestamp('created_at').defaultNow().notNull(),
-  updatedAt: timestamp('updated_at').defaultNow().notNull(),
-  userId: text('user_id').notNull(),
-})
-
+// ------------------
 // Users table
+// ------------------
 export const users = pgTable('users', {
-  id: text('id').primaryKey(),
+  id: text('id').primaryKey(), // ✅ 自增整数
   email: text('email').notNull().unique(),
   password: text('password').notNull(),
-  createdAt: timestamp('created_at').defaultNow().notNull(),
+  createdAt: timestamp('created_at').notNull().defaultNow(),
 })
 
-// Relations between tables
-export const issuesRelations = relations(issues, ({ one }) => ({
-  user: one(users, {
-    fields: [issues.userId],
-    references: [users.id],
-  }),
-}))
+// ------------------
+// Words table
+// ------------------
+export const words = pgTable('words', {
+  id: serial('id').primaryKey(),
+  word: varchar('word', { length: 100 }).notNull(),
+  symbol: varchar('symbol', { length: 50 }),             // 音标，可为空
+  class: varchar('class', { length: 20 }),               // 词性，可为空
+  meaning: text('meaning').notNull(),
+  example: text('example'),
+  level: integer('level').notNull().default(1),
+})
 
-export const usersRelations = relations(users, ({ many }) => ({
-  issues: many(issues),
-}))
+// ------------------
+// User Word Progress table
+// ------------------
+export const userWordProgress = pgTable('user_word_progress', {
+  id: serial('id').primaryKey(),
 
-// Types
-export type Issue = InferSelectModel<typeof issues>
-export type User = InferSelectModel<typeof users>
+  // 外键，必须和 users.id 类型一致（integer）
+  userId: text('user_id')
+    .notNull()
+    .references(() => users.id),
 
-// Status and priority labels for display
-export const ISSUE_STATUS = {
-  backlog: { label: 'Backlog', value: 'backlog' },
-  todo: { label: 'Todo', value: 'todo' },
-  in_progress: { label: 'In Progress', value: 'in_progress' },
-  done: { label: 'Done', value: 'done' },
-}
+  // 外键，必须和 words.id 类型一致（integer）
+  wordId: integer('word_id')
+    .notNull()
+    .references(() => words.id),
 
-export const ISSUE_PRIORITY = {
-  low: { label: 'Low', value: 'low' },
-  medium: { label: 'Medium', value: 'medium' },
-  high: { label: 'High', value: 'high' },
-}
+  status: varchar('status', { length: 20 })
+    .$type<'new' | 'learning' | 'review' |'mastered'>()
+    .notNull()
+    .default('new'),
+
+  familiarity: integer('familiarity').notNull().default(0),
+
+  lastReviewed: timestamp('last_reviewed'),
+
+  nextReview: timestamp('next_review'),
+
+  rightCount: integer('right_count').notNull().default(0),
+
+  wrongCount: integer('wrong_count').notNull().default(0),
+})
+
+
+// 外键 = 约束 + 关联:保证数据一致性
+// 在你的背单词工具里，保证每条学习进度都对应真实用户和真实单词
+
+//因为 $type<...>() 只作用于 TypeScript 类型系统，
+//不会生成任何 SQL、不会修改表结构、不会影响 migration，

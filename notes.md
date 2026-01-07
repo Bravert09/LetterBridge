@@ -1,2 +1,56 @@
-svg代码
-<svg t="1766722860656" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12360" data-spm-anchor-id="a313x.search_index.0.i35.7ec13a81697v6W" width="200" height="200"><path d="M878.86 298.84H144.9c-9.57 0-17.32-7.76-17.32-17.32v-43.49c0-9.57 7.76-17.32 17.32-17.32h733.96c9.57 0 17.32 7.76 17.32 17.32v43.49c0 9.57-7.76 17.32-17.32 17.32z" fill="#fee685" p-id="12361" data-spm-anchor-id="a313x.search_index.0.i25.7ec13a81697v6W" class=""></path><path d="M494.95 296.05h33.85v78.76h-33.85zM177.78 296.05h33.85v78.76h-33.85zM812.13 296.05h33.85v78.76h-33.85zM653.54 296.05h33.85v78.76h-33.85zM336.37 296.05h33.85v78.76h-33.85z" fill="#c4b4ff" p-id="12362" data-spm-anchor-id="a313x.search_index.0.i34.7ec13a81697v6W" class=""></path><path d="M896.41 412.14v327.82c0 14.67-11.79 26.57-26.33 26.57h-57.43c-10.75 0-19.59-8.41-20.37-19.23-10.42-144.65-131.97-253.11-280.41-253.11-148.43 0-269.99 108.46-280.41 253.11-0.78 10.82-9.62 19.23-20.37 19.23h-57.43c-14.54 0-26.33-11.89-26.33-26.57V412.14c0-21.75 17.48-39.38 39.03-39.38h691c21.58 0 39.05 17.63 39.05 39.38z" fill="#8D4AE5" p-id="12363" data-spm-anchor-id="a313x.search_index.0.i24.7ec13a81697v6W" class=""></path></svg>
+**目前是版本 1.0**
+
+# 开发流程
+
+- 需求冻结：version1.0 主要是背单词
+- 数据库
+- 后端：业务规则
+- 前端
+
+# 数据库和数据准备
+- 建表：db/schema.ts 3个tables，不同表之间relation的字段类型要统一
+code:
+<li>npm drizzle-kit generate</li> 
+<li>npm drizzle-kit migrate</li> </br>
+
+- 准备数据：注意字段
+- seed脚本：给数据库填充初始数据，方便开发、测试或演示
+bug：db not found（可能是node和next，关于路径的规则不一致导致的）
+npx tsx seed/seed.ts
+
+**数据库知识**
+pgTable：定义一张表
+serial：自动递增的 id
+varchar / text：字符串
+integer：数字
+timestamp：时间
+
+# 后端
+**AI时代淘汰的不是程序员，而是不理解自己在做什么的人**
+- 业务规则表
+
+- 数据流
+I：页面展示要背的单词，用户点击“认识”，“不认识”
+F: 根据用户反馈，*Function submitWordResult()* 计算新值（familiarity, count），决定更新单词进度status,nextReview和lastReviewed;管理显示单词的index
+O: 更新userWordProgress表，UI显示下个要背的单词
+P：要持久化persistence，userWordProgress表保存status、nextreview、lastreview
+
+- 状态流
+userWordProgress表，status4种状态：new, learning, review, mastered
+new(first) > learning
+learning 
+> (答对5次) > review
+> (wrong) > L1，L2,L3,L4,降级
+review
+> (答对3次) > mastered
+> (wrong) > learning
+
+**下次这里补充一个例子**
+- 参数传递（沿着业务流动）
+主要问题：
+- 不能在client component中，import dal后端函数，需要server actions
+- 数据库可以在server compo中获取words和userId，然后通过props传递给子组件（use client）
+- submitWordResultAction(userId, wordId, isCorrect),传参错误，应该传对象
+
+![alt text](模块职责划分.png)
+![alt text](代码架构1.jpeg)
