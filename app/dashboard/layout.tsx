@@ -1,3 +1,5 @@
+import NavBar from "../components/Navigation";
+
 export default function DashboardLayout({
   children,
 }: {
@@ -5,8 +7,9 @@ export default function DashboardLayout({
 }) {
   return (
     <div>
-      <h1>navigation bar侧边栏</h1>
-      {children}
+      <NavBar />
+      <main className="pl-16 md:pl-64 min-h-screen ">
+        <div className="max-w-6xl mx-auto p-4 md:p-8">{children}</div></main>
     </div>
   );
 }

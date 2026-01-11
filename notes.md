@@ -54,3 +54,7 @@ review
 
 ![alt text](模块职责划分.png)
 ![alt text](代码架构1.jpeg)
+
+# UI
+- tailwind sidebar布局
+![alt text](sidebar布局.png)

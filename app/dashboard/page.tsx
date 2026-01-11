@@ -2,10 +2,13 @@ import { initUserWordProgress } from "@/lib/initUserWordProgress";
 import { getCurrentUser } from "@/lib/dal";
 import { getTodayWordsAction } from "@/actions/learning";
 import WordPage from "../words/page";
+import { redirect } from "next/navigation";
 
 export default async function DashboardPage() {
   const user = await getCurrentUser();
+
   if (!user) {
+   redirect('/signin')
     return "Oops! no user to memorize";
   }
 
@@ -18,7 +21,6 @@ export default async function DashboardPage() {
 
   return (
     <div>
-      DashboardPage
       <WordPage words={words} userId={user.id}/>
     </div>
   );
