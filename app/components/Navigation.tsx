@@ -36,6 +36,5 @@ export default async function NavBar() {
   );
 }
 
-// 在纵向 Flex 容器中，
-// flex-1 上面的内容决定顶部，
-// flex-1 下面的内容自然在底部。
+//flex-1 === flex-grow: 1
+//在纵向 Flex 容器中，占用所有“剩余高度”
