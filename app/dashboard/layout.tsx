@@ -1,4 +1,5 @@
 import NavBar from "../components/Navigation";
+export const dynamic = "force-dynamic"
 
 export default function DashboardLayout({
   children,
