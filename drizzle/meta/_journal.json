@@ -8,6 +8,20 @@
       "when": 1767714637303,
       "tag": "0000_modern_post",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1769054743494,
+      "tag": "0001_typical_sentinel",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1769056680544,
+      "tag": "0002_workable_lake",
+      "breakpoints": true
     }
   ]
 }

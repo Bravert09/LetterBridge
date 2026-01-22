@@ -27,7 +27,7 @@ export const words = pgTable('words', {
   class: varchar('class', { length: 20 }),               // 词性，可为空
   meaning: text('meaning').notNull(),
   example: text('example'),
-  level: integer('level').notNull().default(1),
+  level:varchar('level', { length: 20 }).notNull(), 
 })
 
 // ------------------

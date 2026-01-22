@@ -1,0 +1,1 @@
+ALTER TABLE "words" ALTER COLUMN "level" SET NOT NULL;

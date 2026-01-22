@@ -1,17 +1,20 @@
 import "dotenv/config"; // 必须在导入 db 之前
 // 原代码：import { db } from "@/db/db";
-import { db } from "../db/db.ts";
+import { db } from "../db/db";
+//TypeScript 不允许直接导入带有 .ts 扩展名的文件，而是期望你导入不带扩展名的模块名（例如 import { db } from "../db/db"）
 
 import { users, words, userWordProgress } from "../db/schema";
 import fs from "fs";
 import csvParser from "csv-parser";
 import bcrypt from "bcryptjs";
 
-
-console.log('db.ts exists?', fs.existsSync( "../db/db.ts"));
-
-
 async function seed() {
+  // 【修改】连 users 一起清空（测试用）
+  // await db.delete(userWordProgress);
+  // await db.delete(words);
+  // await db.delete(users);
+  // console.log("Old users, words & progress cleared");
+
   console.log("Starting seed...");
 
   // 1️⃣ 读取 CSV
@@ -26,7 +29,7 @@ async function seed() {
           class: row.class || null,
           meaning: row.meaning,
           example: row.example || null,
-          level: isNaN(Number(row.level)) ? 0 : parseInt(row.level, 10),
+          level: row.level,
         });
       })
       .on("end", () => {
