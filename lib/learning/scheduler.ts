@@ -2,7 +2,7 @@
 
 import { db } from "@/db/db";
 import { userWordProgress, words } from "@/db/schema";
-import { and, eq, lte, isNull } from "drizzle-orm";
+import { and, eq, lte, isNull,asc } from "drizzle-orm";
 import { getSession } from "../auth";
 
 const DAILY_LIMIT = 30;
@@ -62,3 +62,5 @@ export default async function getTodayWords() {
     // console.log(testResult)
   return [...reviewWords, ...newWords];
 }
+
+

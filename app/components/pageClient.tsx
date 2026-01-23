@@ -1,8 +1,9 @@
 "use client";
 
-import { useState, useTransition } from "react";
+import { use, useState, useTransition } from "react";
 import { submitWordResultAction } from "@/actions/learning";
 import { Button } from "./ui/button";
+import { useEffect } from "react";
 
 
 // 把原 WordPage 改名为 Client Component：
@@ -17,6 +18,16 @@ export default function WordPageClient({
   const [isPending, startTransition] = useTransition();
   const [showMeaning, setShowMeaning] = useState(false);
 
+   // 页面加载时从 localStorage 读取上次进度
+  useEffect(() => {
+    const savedIndex = Number(localStorage.getItem("todayWordIndex") || 0);
+    if (savedIndex < words.length) {
+      setCurrentIndex(savedIndex);
+    } else {
+      setCurrentIndex(0);
+    }
+  }, [words]);
+
   const currentWord = words[currentIndex];
 
   // function handleAnswer(isCorrect: boolean) {
@@ -27,7 +38,11 @@ export default function WordPageClient({
     startTransition(async () => {
       await submitWordResultAction(userId, currentWord.id, isCorrect);
       setShowMeaning(false);
-      setCurrentIndex((prev) => prev + 1);
+      
+      const newIndex=currentIndex+1
+      setCurrentIndex(newIndex);
+      localStorage.setItem('todayWordIndex',String(newIndex))
+      
     });
   }
   //处理读句猜词，显示词义,toggle 本质就是“取反”
