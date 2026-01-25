@@ -1,13 +1,12 @@
 "use client";
 
-import { use, useState, useTransition } from "react";
-import { submitWordResultAction } from "@/actions/learning";
+import { useState, useTransition } from "react";
+import { submitWordResultAction } from "@/app/actions/learning";
 import { Button } from "./ui/button";
 import { useEffect } from "react";
+import { finishTodayLearningAction } from "@/app/actions/learning";
 
-
-// 把原 WordPage 改名为 Client Component：
-export default function WordPageClient({
+export default function RecitingCompo({
   words,
   userId,
 }: {
@@ -18,7 +17,6 @@ export default function WordPageClient({
   const [isPending, startTransition] = useTransition();
   const [showMeaning, setShowMeaning] = useState(false);
 
-   // 页面加载时从 localStorage 读取上次进度
   useEffect(() => {
     const savedIndex = Number(localStorage.getItem("todayWordIndex") || 0);
     if (savedIndex < words.length) {
@@ -30,19 +28,16 @@ export default function WordPageClient({
 
   const currentWord = words[currentIndex];
 
-  // function handleAnswer(isCorrect: boolean) {
-  //   submitWordResultAction(userId, currentWord.id, isCorrect);
-  //   setCurrentIndex((prev) => prev + 1);
-  // }
   function handleAnswer(isCorrect: boolean) {
     startTransition(async () => {
       await submitWordResultAction(userId, currentWord.id, isCorrect);
       setShowMeaning(false);
-      
-      const newIndex=currentIndex+1
-      setCurrentIndex(newIndex);
-      localStorage.setItem('todayWordIndex',String(newIndex))
-      
+     
+      setCurrentIndex(prev =>{
+        const next=prev+1;
+        localStorage.setItem('todayWordIndex',String(next))
+        return next
+      })      
     });
   }
   //处理读句猜词，显示词义,toggle 本质就是“取反”
@@ -50,6 +45,8 @@ function toggleShowMeaning(){
     setShowMeaning((prev) => !prev);
 }
   if (!currentWord) {
+    finishTodayLearningAction(userId)
+    
     return "Hurray! 今天背完了";
   }
 
@@ -57,13 +54,14 @@ function toggleShowMeaning(){
     <div>
       {currentWord && (
         <section>
-          <h2 className="text-2xl font-bold">{currentWord.word}</h2>
+          <span>{currentIndex+1}/30</span>
+          <h2 className="text-2xl font-bold">{currentWord.word} </h2>
           <p className="pb-4">{currentWord.symbol}</p>
           {showMeaning ? (
-            <Button className="mb-4" variant='secondary'>{currentWord.meaning}</Button>
+            <Button disabled={isPending} className="mb-4" variant='secondary'>{currentWord.meaning}</Button>
 
           ) : (
-            <Button onClick={toggleShowMeaning} className="mb-4" variant='outline' >读句猜词</Button>
+            <Button disabled={isPending} onClick={toggleShowMeaning} className="mb-4" variant='outline' >读句猜词</Button>
           )}
 
           <p>{currentWord.example}</p>

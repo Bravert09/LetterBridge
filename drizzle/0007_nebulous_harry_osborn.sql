@@ -1,0 +1,1 @@
+ALTER TABLE "user_word_progress" DROP COLUMN "updated_at";

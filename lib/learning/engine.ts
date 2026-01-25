@@ -34,16 +34,12 @@ export async function submitWordResult(params: {
   isCorrect: boolean;
 }) {
   const { userId, wordId, isCorrect } = params;
-
-  console.log("[submitwordresult] input:", userId, wordId);
-
   const record = await db.query.userWordProgress.findFirst({
     where: and(
       eq(userWordProgress.userId, userId),
       eq(userWordProgress.wordId, wordId)
     ),
   });
-  console.log("[submitwordresult] db record:", record);
 
   if (!record) {
     throw new Error("Word progress not found");

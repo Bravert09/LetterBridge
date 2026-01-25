@@ -1,9 +1,8 @@
 import { db } from "@/db/db";
 import {words,userWordProgress} from '@/db/schema'
-import {eq,inArray} from 'drizzle-orm'
-import { initialize } from "next/dist/server/lib/render-server";
+import {eq} from 'drizzle-orm'
 
-const initWordCount=100 //初始给用户多少词
+const initWordCount=999 //初始给用户多少词
 
 export async function initUserWordProgress(userId:string){
 //1.是否已经初始化过
@@ -28,7 +27,7 @@ if(baseWords.length===0){
     throw new Error('No words found to initialize')
 }
 //3.组装批量插入数据
-const rows=baseWords.map(w=>({ //易错点：箭头函数没有箭头！！！！！
+const rows=baseWords.map(w=>({ 
     userId,
     wordId:w.id,
     status:'new' as const,
@@ -47,5 +46,3 @@ const rows=baseWords.map(w=>({ //易错点：箭头函数没有箭头！！！�
  }
 }
 
-//future:to do 
-//解锁新词（再插一批）

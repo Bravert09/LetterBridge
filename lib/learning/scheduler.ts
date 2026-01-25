@@ -54,8 +54,10 @@ export default async function getTodayWords() {
       and(
         eq(userWordProgress.userId, userId),
         eq(userWordProgress.status, "new")
+        
       )
-    )
+    ) 
+    .orderBy(asc(words.id))   // 🔴 核心
     .limit(need);
     
     // const testResult=[...reviewWords, ...newWords]

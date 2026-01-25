@@ -8,12 +8,8 @@ import {
   deleteSession,
 } from '@/lib/auth'
 import { getUserByEmail } from '@/lib/dal'
-import { mockDelay } from '@/lib/utils'
 import { redirect } from 'next/navigation'
-import { ConsoleLogWriter, is } from 'drizzle-orm'
-import { error } from 'console'
-import { errors } from 'jose'
-//按住 Ctrl / Cmd 点击：路径，跳转到对应的文件
+import { initUserWordProgress } from '@/lib/initialize/initUserWordProgress'
 
 // Define Zod schema for signin validation
 const SignInSchema = z.object({
@@ -46,8 +42,6 @@ export type ActionResponse = {
 //指向一个 已经创建好的 FormData 实例
 export async function signIn(formData: FormData): Promise<ActionResponse> {
   try {
-    //Add a small delay to simulate network latency
-    await mockDelay(700)
 
     //Extract data from form
     const data = {
@@ -106,10 +100,8 @@ export async function signIn(formData: FormData): Promise<ActionResponse> {
 }
 
 export async function signUp(formData: FormData): Promise<ActionResponse> {
-    console.log("here from the server")
   try {
-    //network latency
-    await mockDelay(700)
+
     //extract data from form
     const data = {
       email: formData.get('email') as string,
@@ -147,7 +139,9 @@ export async function signUp(formData: FormData): Promise<ActionResponse> {
     }
     //create session
     await createSession(user.id)
-
+    //初始化用户词库
+    await initUserWordProgress(user.id);
+    
     //find user by email
     //verify password
 
@@ -164,9 +158,9 @@ export async function signUp(formData: FormData): Promise<ActionResponse> {
     }
   }
 }
+
 export async function signOut(): Promise<void> {
   try {
-    await mockDelay(300)
     await deleteSession()
   } catch (error) {
     console.error('Sign out error', error)

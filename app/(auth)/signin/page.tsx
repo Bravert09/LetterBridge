@@ -11,10 +11,7 @@ import {
 } from '@/app/components/ui/Form'
 import toast from 'react-hot-toast'
 import Link from 'next/link'
-import { signIn, ActionResponse } from "@/app/(auth)/actions/auth";
-
-import { error } from 'console'
-import { stat } from 'fs'
+import { signIn, ActionResponse } from "@/app/actions/auth";
 
 const initialState: ActionResponse = {
   success: false,

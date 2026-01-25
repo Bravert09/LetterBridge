@@ -14,8 +14,8 @@ import {
 } from "@/app/components/ui/Form";
 import toast from "react-hot-toast";
 import Link from "next/link";
-import { signUp, ActionResponse } from "@/app/(auth)/actions/auth";
-import { errors } from "jose";
+import { signUp, ActionResponse } from "@/app/actions/auth";
+
 const initialState: ActionResponse = {
   success: false,
   message: "",
@@ -36,6 +36,7 @@ export default function SignUpPage() {
 
       //Handle successful submission
       if (result.success) {
+        localStorage.clear();
         toast.success("Account created successfully");
         router.push("/dashboard");
       }

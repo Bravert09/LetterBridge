@@ -22,8 +22,8 @@ export default async function NavBar() {
 
       <nav className="flex-1 flex flex-col space-y-1">
         <Link href="/dashboard">dashboard</Link>
-        <Link href="/...">nav 1</Link>
-        <Link href="/...">nav 2</Link>
+        <br />
+        <Link href="/words">今日已背单词</Link>
       </nav>
 
       <div className="pt-4 border-t border-gray-200 dark:border-dark-border-subtle">

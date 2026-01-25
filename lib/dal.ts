@@ -4,7 +4,6 @@ import { eq } from 'drizzle-orm'
 import { cache } from 'react'
 import { users } from '@/db/schema'
 import { mockDelay } from './utils'
-import { unstable_cacheTag as cacheTag } from 'next/cache'
 
 //以下代码，为粘贴复制从github，学到对应内容，请删掉！
 // Current user

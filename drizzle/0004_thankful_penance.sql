@@ -1,0 +1,1 @@
+ALTER TABLE "user_daily_learning" ADD COLUMN "batch_count" integer DEFAULT 1 NOT NULL;

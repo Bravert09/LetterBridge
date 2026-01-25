@@ -8,6 +8,8 @@ import { db } from "@/db/db";
 
 import getTodayWords from "@/lib/learning/scheduler";
 import { submitWordResult } from "@/lib/learning/engine";
+import { finishTodayLearning } from "@/lib/learning/batch";
+
 
 export async function getTodayWordsAction(userId:string){
     return getTodayWords()
@@ -34,3 +36,7 @@ export async function getWordProgressAction(
   })
 }
 
+
+export async function finishTodayLearningAction(userId:string){
+    return finishTodayLearning(userId)
+}
